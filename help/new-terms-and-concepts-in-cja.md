@@ -1,17 +1,18 @@
 ---
 title: Nuevos términos y conceptos en Customer Journey Analytics
-description: En este vídeo analizaremos los términos y conceptos clave en Customer Journey Analytics, cómo se asignan a términos y conceptos en Adobe Analytics y también dónde se pueden ver en la interfaz de Customer Journey Analytics.
+description: En este vídeo analizaremos los términos y conceptos clave en Adobe Customer Journey Analytics, cómo se asignan a los términos y conceptos en Adobe Analytics y también dónde se pueden ver en la interfaz de Customer Journey Analytics.
 feature: customer journey analytics
 topics: null
 audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 32113.jpg
 kt: 3960
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '109'
 ht-degree: 7%
 
 ---
