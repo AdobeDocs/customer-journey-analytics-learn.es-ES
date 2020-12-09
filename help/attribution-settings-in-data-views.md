@@ -1,17 +1,18 @@
 ---
 title: Configuración de atribución en Vistas de datos en Customer Journey Analytics
-description: Al configurar Vistas de datos en Customer Journey Analytics, puede elegir la configuración de atribución para controlar cómo funcionarán juntas las dimensiones y las métricas. Este vídeo le guía por los valores predeterminados, las opciones y cómo interactúan los valores de atribución de métricas y dimensiones.
+description: Al configurar Vistas de datos en el Customer Journey Analytics de Adobe, puede elegir la configuración de atribución para controlar cómo funcionarán juntas las dimensiones y las métricas. Este vídeo le guía por los valores predeterminados, las opciones y cómo interactúan los valores de atribución de métricas y dimensiones.
 feature: customer journey analytics
 topics: null
 audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30185.jpg
 kt: 3959
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '124'
 ht-degree: 1%
 
 ---
