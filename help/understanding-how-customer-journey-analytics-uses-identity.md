@@ -1,27 +1,28 @@
 ---
-title: Explicación del modo en que el Customer Journey Analytics utiliza la identidad
-description: Este vídeo no es una inmersión técnica profunda, sino más bien una visión práctica de cómo la identidad afecta a la análisis en el Customer Journey Analytics de Adobes, incluyendo un vistazo a las visualizaciones de canales cruzados que son posibles gracias a la identificación de visitantes.
-feature: customer journey analytics
+title: Explicación de cómo utiliza Customer Journey Analytics la identidad
+description: Este vídeo no es una inmersión técnica en profundidad, sino una visión práctica de cómo la identidad afecta a su análisis en Adobe Customer Journey Analytics, que incluye un vistazo a las visualizaciones multicanal que se han hecho posibles mediante la vinculación de los ID de visitante.
+feature: Identidad
 topics: topics
-audience: analyst, marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30750.jpg
 kt: 3955
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '103'
 ht-degree: 8%
 
 ---
 
 
-# Explicación del modo en que el Customer Journey Analytics utiliza [!UICONTROL la identidad]
+# Explicación de cómo utiliza Customer Journey Analytics [!UICONTROL Identity]
 
-Este vídeo no es una inmersión técnica profunda, sino más bien una visión práctica de cómo la [!UICONTROL identidad] afecta a la análisis en Customer Journey Analytics, incluyendo un vistazo a las [!UICONTROL visualizaciones] entre canales que se han hecho posibles mediante la identificación de [!UICONTROL visitantes] .
+Este vídeo no es una inmersión técnica en profundidad, sino una mirada práctica sobre cómo [!UICONTROL identity] afecta a su análisis en Customer Journey Analytics, que incluye un vistazo a las [!UICONTROL visualizaciones] multicanal que se pueden realizar mediante la vinculación de [!UICONTROL ID de visitante].
 
 >[!VIDEO](https://video.tv.adobe.com/v/30750/?quality=12&enable10seconds=on&speedcontrol=on)
 
-Para obtener más información, visite la [documentación](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-landing.html).
+Para obtener más información, consulte la [documentación](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-landing.html).
