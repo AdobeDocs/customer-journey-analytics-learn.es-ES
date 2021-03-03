@@ -1,26 +1,27 @@
 ---
-title: Crear visualizaciones de varios Canales en Customer Journey Analytics
-description: En este vídeo, descubra cómo el Customer Journey Analytics de Adobe le permite crear visualizaciones que incluyen datos de varios conjuntos de datos en varios canales, incluida la combinación de datos por visitante.
-feature: customer journey analytics
+title: Creación de visualizaciones multicanal en Customer Journey Analytics
+description: En este vídeo, descubra cómo Adobe Customer Journey Analytics permite crear visualizaciones que incluyen datos de varios conjuntos de datos en varios canales, incluida la combinación de datos por visitante.
+feature: Visualizaciones
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31771.jpg
 kt: 3961
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 8%
+source-wordcount: '94'
+ht-degree: 9%
 
 ---
 
 
-# Crear [!UICONTROL visualizaciones] de varios Canales en Customer Journey Analytics
+# Creación de [!UICONTROL visualizaciones] en Customer Journey Analytics
 
-In this video, discover how Customer Journey Analytics allows you to create [!UICONTROL visualizations] that include data from multiple [!UICONTROL datasets] across multiple channels, including merging the data per [!UICONTROL visitor].
+En este vídeo, descubra cómo Customer Journey Analytics le permite crear [!UICONTROL visualizaciones] que incluyen datos de varios [!UICONTROL conjuntos de datos] en varios canales, incluida la combinación de los datos por [!UICONTROL visitante].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12)
 
