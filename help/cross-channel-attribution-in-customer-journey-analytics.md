@@ -1,26 +1,27 @@
 ---
-title: Atribución entre Canales en Customer Journey Analytics
-description: En este vídeo, mostraremos cómo puede utilizar las visualizaciones para mostrar la atribución (dar crédito) entre canales en el Customer Journey Analytics de Adobe.
-feature: customer journey analytics
+title: Atribución entre canales en Customer Journey Analytics
+description: En este vídeo, se muestra cómo puede utilizar las visualizaciones para mostrar la atribución (dar crédito) a través de los canales en Adobe Customer Journey Analytics.
+feature: Atribución
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31772.jpg
 kt: 3963
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 10%
+source-wordcount: '79'
+ht-degree: 11%
 
 ---
 
 
-# Atribución [!UICONTROL entre Canales en] Customer Journey Analytics
+# [!UICONTROL Atribución] en Customer Journey Analytics en todos los canales
 
-En este vídeo, mostraremos cómo se pueden usar [!UICONTROL visualizaciones] para mostrar la [!UICONTROL atribución] (dar crédito) entre canales en Customer Journey Analytics.
+En este vídeo, se muestra cómo puede utilizar [!UICONTROL visualizaciones] para mostrar [!UICONTROL atribución] (dar crédito) a través de los canales en Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12)
 
