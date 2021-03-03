@@ -1,43 +1,43 @@
 ---
-title: Customer Journey Analytics Vídeos y tutoriales
-description: Una colección de vídeos y tutoriales para el Customer Journey Analytics de Adobe.
-feature: overview
+title: Vídeos y tutoriales de Customer Journey Analytics
+description: Una colección de vídeos y tutoriales para Adobe Customer Journey Analytics.
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
+role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 17%
+source-wordcount: '308'
+ht-degree: 14%
 
 ---
 
 
 # Información general
 
-Bienvenido al Sitio de [!DNL Customer Journey Analytics] Tutorials.  El uso de estos tutoriales junto con la [documentación](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-landing.html) le permitirá comprender mejor cómo utilizar Adobe Analytics para obtener perspectivas de clientes con varios canales más rápido que nunca.  En primer lugar,
+Le damos la bienvenida al sitio de tutoriales de [!DNL Customer Journey Analytics].  El uso de estos tutoriales junto con la [documentación](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-landing.html) le proporcionará una mejor comprensión sobre cómo usar Adobe Analytics para obtener perspectivas de clientes multicanal más rápido que nunca.  En primer lugar,
 
 * Consulte la sección **&quot;Novedades&quot;** más abajo para conocer las últimas novedades
-* **Selección de personal** resalta algunos de nuestros contenidos favoritos
-* Explorar el contenido por tema y subtema en la navegación de la **izquierda**
-* Utilice el campo de **búsqueda** en la parte superior de la página si sabe lo que busca
+* **El personal** destaca algunos de nuestros contenidos favoritos
+* Explorar el contenido por tema y subtema en la **navegación izquierda**
+* Utilice el campo **search** de la parte superior de la página si sabe lo que está buscando
 
-Customer Journey Analytics permite controlar cómo conectar los datos en línea y sin conexión en Analysis Workspace en cualquier ID de cliente común, lo que permite realizar procesos de atribución, segmentación, flujo, abandonos, etc. en todo el conjunto de datos del cliente.
+Customer Journey Analytics permite controlar cómo conectar los datos en línea y sin conexión en Analysis Workspace en cualquier ID de cliente común, lo que permite realizar procesos de atribución, segmentación, flujo, abandonos, etc. en todo el conjunto de datos de clientes.
 
 ## Novedades
 
-* **[Mover segmentos de Adobe Analytics al Customer Journey Analytics (vídeo)](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
+* **[Mover segmentos de Adobe Analytics a Customer Journey Analytics (vídeo)](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
 
-   *Obtenga sugerencias sobre cómo volver a crear los segmentos de Adobe Analytics en Customer Journey Analytics*
+   *Obtenga más información sobre cómo volver a crear los segmentos de Adobe Analytics en Customer Journey Analytics*
 
-* **[Mover las métricas calculadas de Adobe Analytics al Customer Journey Analytics (vídeo)](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
+* **[Mover las métricas calculadas de Adobe Analytics a Customer Journey Analytics (vídeo)](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
 
-   *Sugerencias para volver a crear las métricas calculadas de Adobe Analytics en Customer Journey Analytics*
+   *Sugerencias de aprendizaje para volver a crear las métricas calculadas de Adobe Analytics en Customer Journey Analytics*
 
-* **[Creación de Filtros entre Canales (vídeo)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
+* **[Creación de filtros multicanal (vídeo)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
    *Crear filtros en Customer Journey Analytics que utilicen más de una fuente de datos y más de un canal*
 
@@ -47,15 +47,15 @@ Customer Journey Analytics permite controlar cómo conectar los datos en línea 
 <tr>
   <td>
     <a href="/help/understanding-how-customer-journey-analytics-uses-identity.md">
-      <img alt="Explicación de cómo utiliza la identidad CJA" src="assets/30750.jpg" />
+      <img alt="Explicación de cómo utiliza CJA la identidad" src="assets/30750.jpg" />
     </a>
     <div>
       <a href="/help/understanding-how-customer-journey-analytics-uses-identity.md">
-    <strong>Explicación del modo en que el Customer Journey Analytics utiliza la identidad</strong>
+    <strong>Explicación de cómo utiliza Customer Journey Analytics la identidad</strong>
     </a>
     </div>
     <p>
-    <em>Una visión práctica de cómo la identidad afecta a la análisis en el Customer Journey Analytics</em>
+    <em>Una visión práctica de cómo la identidad afecta a su análisis en Customer Journey Analytics</em>
     <p>
   </td>
    <td>
@@ -68,20 +68,20 @@ Customer Journey Analytics permite controlar cómo conectar los datos en línea 
     </a>
     </div>
     <p>
-    <em>Recorrido de la arquitectura de Customer Journey Analytics, incluida la integración con el Adobe Experience Platform.</em>
+    <em>Introducción a la arquitectura de Customer Journey Analytics, incluida la integración con Adobe Experience Platform.</em>
     <p>
   </td>
   <td>
     <a href="/help/cross-channel-attribution-in-customer-journey-analytics.md">
-      <img alt="Atribución entre Canales en Customer Journey Analytics" src="assets/31772.jpg" />
+      <img alt="Atribución entre canales en Customer Journey Analytics" src="assets/31772.jpg" />
     </a>
     <div>
       <a href="/help/cross-channel-attribution-in-customer-journey-analytics.md">
-    <strong>Atribución entre Canales en Customer Journey Analytics</strong>
+    <strong>Atribución entre canales en Customer Journey Analytics</strong>
     </a>
     </div>
     <p>
-    <em>Cómo se pueden usar visualizaciones para mostrar la atribución (dar crédito) entre canales.</em>
+    <em>Cómo puede utilizar las visualizaciones para mostrar la atribución (dar crédito) a través de los canales.</em>
     <p>
   </td>
 </tr>
