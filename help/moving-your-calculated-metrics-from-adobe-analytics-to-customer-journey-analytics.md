@@ -1,26 +1,28 @@
 ---
-title: Mover las métricas calculadas de Adobe Analytics al Customer Journey Analytics
+title: Mover las métricas calculadas de Adobe Analytics a Customer Journey Analytics
 description: En este vídeo, encontrará sugerencias para volver a crear las métricas calculadas de Adobe Analytics en Customer Journey Analytics.
-feature: customer journey analytics - calculated metrics
+feature: Métricas
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31788.jpg
 kt: 3966
+topic: Migración
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 11%
+source-wordcount: '77'
+ht-degree: 12%
 
 ---
 
 
-# Move your [!UICONTROL Calculated Metrics] from Adobe Analytics to Customer Journey Analytics
+# Mover las [!UICONTROL métricas calculadas] de Adobe Analytics a Customer Journey Analytics
 
-En este vídeo, encontrará sugerencias para volver a crear las métricas [!UICONTROL calculadas] de Adobe Analytics en Customer Journey Analytics.
+En este vídeo, encontrará sugerencias para volver a crear las [!UICONTROL Métricas calculadas] de Adobe Analytics en Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12)
 
