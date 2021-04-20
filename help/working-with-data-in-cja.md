@@ -1,15 +1,15 @@
 ---
 title: Uso de datos en Customer Journey Analytics
 description: En este vídeo, aprenderá cómo se traducen los esquemas de conjuntos de datos en variables en Customer Journey Analytics (CJA) de Adobe, así como la forma en la que CJA gestiona cardinalidades elevadas.
-feature: Conexiones
+feature: Connections
 topics: null
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 32112.jpg
 kt: 3964
-role: '"Ingeniero de datos, arquitecto de datos"'
-level: Intermedio
+role: "Data Engineer, Data Architect"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

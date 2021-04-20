@@ -1,15 +1,15 @@
 ---
 title: Añadir datos anteriores a una conexión existente en Customer Journey Analytics
 description: En este vídeo, aprenderá a añadir datos pasados (datos que tienen una marca de tiempo anterior asociada a ellos) a su análisis de Adobe Customer Journey Analytics existente mediante conexiones y vistas de datos.
-feature: Conexiones
+feature: Connections
 topics: null
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 32549.jpg
 kt: 3965
-role: '"Ingeniero de datos, arquitecto de datos"'
-level: Principiante
+role: "Data Engineer, Data Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

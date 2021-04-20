@@ -1,15 +1,15 @@
 ---
 title: Introducción a los filtros en Customer Journey Analytics
 description: Este vídeo le muestra los filtros y el Generador de filtros en Adobe Customer Journey Analytics.
-feature: Filtros
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32114.jpg
 kt: 4447
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

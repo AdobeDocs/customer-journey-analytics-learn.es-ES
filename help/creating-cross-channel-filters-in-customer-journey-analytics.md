@@ -1,15 +1,15 @@
 ---
 title: Creación de filtros multicanal en Customer Journey Analytics
 description: En este vídeo explicamos cómo crear filtros en Adobe Customer Journey Analytics que utilicen más de una fuente de datos y más de un canal. También verá cómo se pueden combinar estos filtros en las visualizaciones.
-feature: Filtros
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31983.jpg
 kt: 3962
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
