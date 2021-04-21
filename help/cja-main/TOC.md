@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 83f374ef8303144f358221b656fd0480b009559d
+source-git-commit: dfd17aab3faf67f9d1b1739ed8e1da6809734941
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 14%
+source-wordcount: '138'
+ht-degree: 25%
 
 ---
 
@@ -20,6 +20,8 @@ ht-degree: 14%
 + [Trabajo con los datos](/help/working-with-data-in-cja.md)
 + [Conectarse a fuentes de datos en Platform](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
 + [Configuración básica de vistas de datos](/help/basic-configuration-for-data-views.md)
++ [Configuración de componentes en Vistas de datos](/help/configuring-component-settings-in-data-views.md)
++ [Formato de métricas en Vistas de datos](/help/formatting-metrics-in-data-views.md)
 + [Configuración de atribución en Vistas de datos](/help/attribution-settings-in-data-views.md)
 + [Explicación de cómo utiliza CJA la identidad](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [Agregar datos anteriores a una conexión existente](/help/add-past-data-to-an-existing-connection-in-cja.md)
@@ -30,7 +32,7 @@ ht-degree: 14%
 + [Introducción a los filtros](/help/introduction-to-filters-in-cja.md)
 + [Crear filtros multicanal](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)
 + [Mover segmentos de Adobe Analytics al Customer Journey Analytics](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
-+ Planes {#blueprints}
-   + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
++ Modelos {#blueprints}
+   + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=es)
    + [Situación de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
    + [Caso de análisis de Recorrido de la deformación de llamadas](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
