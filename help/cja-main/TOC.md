@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 68ca589a18cea7c1ec30c2446491b8e920e2ebc9
+source-git-commit: c40fc8536dd8b8d81946f8e527cbbf2740e6b970
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 23%
+source-wordcount: '154'
+ht-degree: 22%
 
 ---
 
@@ -19,10 +19,11 @@ ht-degree: 23%
 + [Arquitectura e integraciones](/help/architecture-and-integrations-of-cja.md)
 + [Trabajo con los datos](/help/working-with-data-in-cja.md)
 + [Conectarse a fuentes de datos en Platform](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
-+ [Configuración básica de vistas de datos](/help/basic-configuration-for-data-views.md)
++ [Configuración básica de las vistas de datos](/help/basic-configuration-for-data-views.md)
 + [Configuración de componentes en Vistas de datos](/help/configuring-component-settings-in-data-views.md)
 + [Formato de métricas en Vistas de datos](/help/formatting-metrics-in-data-views.md)
 + [Creación de bloques de valores en Vistas de datos para su análisis](/help/creating-value-buckets-in-data-views-for-analysis.md)
++ [Incluir o excluir valores de dimensión en Vistas de datos](/help/include-or-exclude-dimension-values-in-data-views.md)
 + [Configuración de atribución en Vistas de datos](/help/attribution-settings-in-data-views.md)
 + [Explicación de cómo utiliza CJA la identidad](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [Agregar datos anteriores a una conexión existente](/help/add-past-data-to-an-existing-connection-in-cja.md)
