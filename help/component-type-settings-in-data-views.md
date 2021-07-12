@@ -3,19 +3,18 @@ title: Configuración del tipo de componente en las vistas de datos
 description: Al configurar componentes en una vista de datos en Customer Journey Analytics, puede elegir si un campo debe ser una métrica o una dimensión. En muchos casos, las cadenas deben ser dimensiones y los números, métricas. Sin embargo, hay algunos casos de uso buenos para activarlo. ¡Echa un vistazo!
 feature: Vistas de datos
 topic: Administración
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 333112.jpg
 kt: 7583
-translation-type: tm+mt
-source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
+exl-id: b61753df-08d6-4f50-b84d-c8ec6b27db3c
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 2%
 
 ---
-
 
 # Configuración del tipo de componente en las vistas de datos
 
