@@ -1,28 +1,27 @@
 ---
-title: Introducción a los filtros en Customer Journey Analytics
-description: Este vídeo le muestra los filtros y el Generador de filtros en Adobe Customer Journey Analytics.
-feature: Filters
+title: Introducción a los filtros en el Customer Journey Analytics
+description: En este vídeo se muestran los filtros y el Generador de filtros en el Customer Journey Analytics de Adobe.
+feature: Filtros
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32114.jpg
 kt: 4447
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 13%
+source-wordcount: '64'
+ht-degree: 14%
 
 ---
 
+# Introducción a [!UICONTROL Filters] en el Customer Journey Analytics
 
-# Introducción a [!UICONTROL Filters] en Customer Journey Analytics
-
-Este vídeo le presenta los [!UICONTROL filtros] y el [!UICONTROL Generador de filtros] en Customer Journey Analytics.
+Este vídeo le presenta los [!UICONTROL filtros] y el [!UICONTROL Generador de filtros] en el Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12)
 
-Para obtener más información sobre Customer Journey Analytics, visite la [documentación](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-landing.html).
+Para obtener más información sobre el Customer Journey Analytics, visite la [documentación](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-landing.html).
