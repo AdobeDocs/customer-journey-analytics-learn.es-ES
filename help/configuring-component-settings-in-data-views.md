@@ -2,19 +2,18 @@
 title: Configuración de componentes en Vistas de datos
 description: En este vídeo, se describen algunas de las opciones básicas de configuración de componentes que se deben configurar para cada uno de los componentes (métricas y dimensiones) al configurar una vista de datos en Customer Journey Analytics.
 feature: Vistas de datos
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 332788.jpg
 kt: 7582
-translation-type: tm+mt
-source-git-commit: dfd17aab3faf67f9d1b1739ed8e1da6809734941
+exl-id: e0c2cf9f-5c5e-45e2-a738-cc7afc0a440f
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 3%
+ht-degree: 15%
 
 ---
-
 
 # Configuración de componentes en Vistas de datos
 
