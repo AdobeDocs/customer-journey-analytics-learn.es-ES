@@ -1,7 +1,7 @@
 ---
-title: Explicación de cómo utiliza la identidad el Customer Journey Analytics
-description: Este vídeo no es una inmersión técnica en profundidad, sino una mirada práctica sobre cómo la identidad afecta a su análisis en el Customer Journey Analytics de Adobes, incluyendo un vistazo a las visualizaciones multicanal que se han hecho posibles mediante la vinculación de los ID de visitante.
-feature: Identidad
+title: Explicación de cómo utiliza la identidad Customer Journey Analytics
+description: Este vídeo no pretende profundizar en los aspectos técnicos, sino ofrecer una visión práctica sobre cómo la identidad afecta a los análisis en Customer Journey Analytics de Adobe. Asimismo, incluye una presentación de las visualizaciones multicanal, disponibles gracias a la vinculación de los ID de visitante.
+feature: Identity
 topics: topics
 activity: understand
 doc-type: feature video
@@ -12,15 +12,15 @@ role: User
 level: Beginner
 exl-id: f835376c-36b8-45b6-a3fe-4efaf5fb6a12
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 15%
+workflow-type: ht
+source-wordcount: '99'
+ht-degree: 100%
 
 ---
 
-# Explicación de cómo utiliza el Customer Journey Analytics [!UICONTROL Identity]
+# Explicación de cómo utiliza la [!UICONTROL identidad] Customer Journey Analytics
 
-Este vídeo no es una inmersión técnica en profundidad, sino una visión práctica de cómo [!UICONTROL identity] afecta a su análisis en el Customer Journey Analytics, incluyendo un vistazo a las [!UICONTROL visualizaciones] multicanal que se han hecho posibles vinculando [!UICONTROL ID de visitante].
+Este vídeo no pretende profundizar en los aspectos técnicos, sino ofrecer una visión práctica sobre cómo la [!UICONTROL identidad] afecta a los análisis en Customer Journey Analytics de Adobe. Asimismo, incluye una presentación de las [!UICONTROL visualizaciones] multicanal, disponibles gracias a la vinculación de los ID de [!UICONTROL visitante].
 
 >[!VIDEO](https://video.tv.adobe.com/v/30750/?quality=12&enable10seconds=on&speedcontrol=on)
 
