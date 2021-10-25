@@ -1,7 +1,7 @@
 ---
 title: Nuevos términos y conceptos en Customer Journey Analytics
-description: En este vídeo analizaremos los términos y conceptos clave en el Customer Journey Analytics de Adobe, cómo se asignan a los términos y conceptos en Adobe Analytics y también dónde se pueden ver en la interfaz de Customer Journey Analytics.
-feature: Conceptos básicos de CJA Workspace
+description: En este vídeo analizaremos los términos y conceptos clave de Customer Journey Analytics de Adobe, cómo se asignan a los términos y conceptos en Adobe Analytics, y también dónde se pueden ver en la interfaz de Customer Journey Analytics.
+feature: CJA Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -12,16 +12,16 @@ role: User
 level: Beginner
 exl-id: aa063ebb-c171-47a8-b1c5-12f24e1a59b8
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 7%
+workflow-type: ht
+source-wordcount: '109'
+ht-degree: 100%
 
 ---
 
 # Nuevos términos y conceptos en Customer Journey Analytics
 
-En este vídeo analizaremos los términos y conceptos clave en Customer Journey Analytics, cómo se asignan a los términos y conceptos de Adobe Analytics y también dónde se pueden ver en la interfaz de Customer Journey Analytics.
+En este vídeo analizaremos los términos y conceptos clave de Customer Journey Analytics, cómo se asignan a los términos y conceptos de Adobe Analytics, y también dónde se pueden ver en la interfaz de Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12)
 
-Para obtener más información sobre el Customer Journey Analytics, visite la [documentación](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-landing.html).
+Para obtener más información sobre Customer Journey Analytics, visite la [documentación](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-landing.html).
