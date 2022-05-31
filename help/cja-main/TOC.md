@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: d3ef42eacc2cfc0a5d4aa4da30de8e634b361df8
+source-git-commit: f54c2c2095d0230c6e48f6664a795358eae3ce6a
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '253'
 ht-degree: 28%
 
 ---
@@ -49,6 +49,9 @@ ht-degree: 28%
       + [Introducción a los filtros](components/filters/introduction-to-filters-in-cja.md)
       + [Creación de filtros multicanal](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Paso de segmentos de Adobe Analytics a Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
++ Tableros (informes de valoración) {#dashboards}
+   + [Creación de un cuadro de resultados móvil](dashboards/create-a-mobile-scorecard.md)
+   + [Ayudar a los ejecutivos a acceder a los informes de valoración móviles](dashboards/assist-executives-to-access-mobile-scorecards.md)
    + Métricas calculadas {#calc-metrics}
       + [Introducción a las métricas calculadas en Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
       + [Mover las métricas calculadas de Adobe Analytics a Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
