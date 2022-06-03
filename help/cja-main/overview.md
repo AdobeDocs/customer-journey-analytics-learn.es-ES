@@ -8,16 +8,16 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: a5355b403cb353272dd5580adac31d4f4b1f1769
-workflow-type: ht
-source-wordcount: '297'
-ht-degree: 100%
+source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+workflow-type: tm+mt
+source-wordcount: '298'
+ht-degree: 98%
 
 ---
 
-# Información general
+# Tutoriales de Customer Journey Analytics
 
-Bienvenido al sitio de tutoriales de [!DNL Customer Journey Analytics].  El uso de estos tutoriales junto con la [documentación](https://docs.adobe.com/content/help/es-ES/analytics-platform/using/cja-landing.html) le permitirá comprender mejor cómo puede utilizar Adobe Analytics para conocer los datos del cliente más rápido que nunca.  En primer lugar,
+Bienvenido a la [!DNL Customer Journey Analytics] sitio de tutoriales.  El uso de estos tutoriales junto con la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=es) le permitirá comprender mejor cómo puede utilizar Adobe Analytics para conocer los datos del cliente más rápido que nunca.  En primer lugar,
 
 * Consulte la sección **Novedades** para conocer las funciones más recientes
 * **Selección de personal** destaca algunos de nuestros contenidos favoritos
