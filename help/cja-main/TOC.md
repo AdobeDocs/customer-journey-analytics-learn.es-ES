@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 81b0cd1dd46f9b5dd10fbe468e9067a6d866be38
+source-git-commit: 24decec83de218dc3564a98b6f9a8e4c1239dae0
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 96%
+source-wordcount: '257'
+ht-degree: 95%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 96%
    + [Configuración de componentes en vistas de datos](data-views/configuring-component-settings-in-data-views.md)
    + [Configuración del tipo de componente en vistas de datos](data-views/component-type-settings-in-data-views.md)
    + [Formato de métricas en vistas de datos](data-views/formatting-metrics-in-data-views.md)
+   + [Configuración de los componentes de subcadena](data-views/configure-substring-component-settings.md)
    + [Inclusión o exclusión de valores de métricas en vistas de datos](data-views/include-or-exclude-metric-values-in-data-views.md)
    + [Creación de bloques de valores en vistas de datos para su análisis](data-views/creating-value-buckets-in-data-views-for-analysis.md)
    + [Inclusión o exclusión de valores de dimensión en vistas de datos](data-views/include-or-exclude-dimension-values-in-data-views.md)
