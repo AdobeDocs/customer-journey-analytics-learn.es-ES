@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 217f742a945455eaa80e539a72bcd0f09dcc8c99
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 95%
    + [Explicación de Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Nuevos términos y conceptos](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Página de aterrizaje de Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
-+ Arquitectura {#architecture}
++ Arquitectura  {#architecture}
    + [Arquitectura e integraciones](architecture/architecture-and-integrations-of-cja.md)
 + Preparación y planificación de datos {#data-prep}
    + [Trabajo con los datos](data-prep/working-with-data-in-cja.md)
@@ -35,7 +35,7 @@ ht-degree: 95%
    + [Configuración de componentes en vistas de datos](data-views/configuring-component-settings-in-data-views.md)
    + [Configuración del tipo de componente en vistas de datos](data-views/component-type-settings-in-data-views.md)
    + [Formato de métricas en vistas de datos](data-views/formatting-metrics-in-data-views.md)
-   + [Configuración de los componentes de subcadena](data-views/configure-substring-component-settings.md)
+   + [Configure los componentes de la subcadena](data-views/configure-substring-component-settings.md)
    + [Inclusión o exclusión de valores de métricas en vistas de datos](data-views/include-or-exclude-metric-values-in-data-views.md)
    + [Creación de bloques de valores en vistas de datos para su análisis](data-views/creating-value-buckets-in-data-views-for-analysis.md)
    + [Inclusión o exclusión de valores de dimensión en vistas de datos](data-views/include-or-exclude-dimension-values-in-data-views.md)
