@@ -1,21 +1,21 @@
 ---
-title: Configuración de los componentes de subcadena
-description: Aprenda a utilizar métodos de manipulación de cadenas para obtener la parte deseada de los valores de dimensión en los informes de Customer Journey Analytics. Una vez aplicada, la transformación de datos se produce de forma retroactiva e inmediata.
+title: Configure los componentes de la subcadena
+description: Aprenda a utilizar métodos de manipulación de cadenas para conseguir la parte deseada de los valores de dimensión en los informes de Customer Journey Analytics. Una vez aplicada, la transformación de datos se produce de forma retroactiva e inmediata.
 feature: Data Views
 role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 343526.jpg
 kt: 10451
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: tm+mt
+exl-id: 0728ed4c-9a38-4e8f-8b08-175c68c36ea6
+source-git-commit: 47b47d26c68cf787aeb13769c5ae3f200b364abc
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
-
-# Configuración de los componentes de subcadena
+# Configure los componentes de la subcadena
 
 Aprenda a utilizar métodos de manipulación de cadenas para obtener la parte deseada de los valores de dimensión en los informes de Customer Journey Analytics. Una vez aplicada, la transformación de datos se produce de forma retroactiva e inmediata.
 
