@@ -8,9 +8,9 @@ level: Beginner
 kt: 11024
 thumbnail: 346759.jpeg
 source-git-commit: 70696bb3348513222627128a1597d08e127a8a36
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
