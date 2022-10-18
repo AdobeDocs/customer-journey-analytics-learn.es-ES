@@ -1,6 +1,6 @@
 ---
 title: Publicación de audiencias para Customer Journey Analytics
-description: Customer Journey Analytics le permite publicar audiencias que descubra desde el análisis en el Perfil del cliente en tiempo real de Adobe Experience Platform para la activación de segmentos mediante Adobe Real-time Customer Data Platform o para una orquestación de recorrido más personalizada mediante Adobe Journey Optimizer. (Debe tener entre 60 y 160 caracteres, pero tiene 297)
+description: Obtenga información sobre cómo publicar audiencias de Customer Journey Analytics en el Perfil del cliente en tiempo real de Adobe Experience Platform para la activación de segmentos o para una orquestación de recorrido más personalizada.
 feature: Components
 topic: Integrations
 role: User
@@ -8,17 +8,17 @@ level: Beginner
 kt: 11024
 thumbnail: 346759.jpeg
 last-substantial-update: 2022-08-29T00:00:00Z
-source-git-commit: ce572d13eff204071f6fc558ca83a0f41f41d330
+source-git-commit: 263c50d8cda5c0b836bb50ec5eb5acbc99d8e989
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 35%
 
 ---
 
 
 # Publicación de audiencias para Customer Journey Analytics
 
-Customer Journey Analytics le permite publicar audiencias que descubra desde el análisis en el Perfil del cliente en tiempo real de Adobe Experience Platform para la activación de segmentos mediante Adobe Real-time Customer Data Platform o para una orquestación de recorrido más personalizada mediante Adobe Journey Optimizer.
+Obtenga información sobre cómo publicar audiencias de Customer Journey Analytics en el Perfil del cliente en tiempo real de Adobe Experience Platform para la activación de segmentos o para una orquestación de recorrido más personalizada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346759/?quality=12&learn=on)
 
