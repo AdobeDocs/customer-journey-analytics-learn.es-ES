@@ -8,10 +8,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: ff9842fca1ddc90393a7893c92163c71eb444259
+source-git-commit: 4c6b2cad13a20c04c40e937275a2c22c21fc3463
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -41,6 +41,7 @@ Customer Journey Analytics permite controlar cómo conectar los datos en línea 
 * **[Creación de filtros multicanal (vídeo)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
    *Creación de filtros en Customer Journey Analytics que utilicen más de una fuente de datos y más de un canal*
+
 </div>
 
 <div id="recs-overview-body-1"></div>
