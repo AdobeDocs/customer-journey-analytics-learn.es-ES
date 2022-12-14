@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 70696bb3348513222627128a1597d08e127a8a36
+source-git-commit: 143f2dfb69c303e5dbe83a37efc88622ea1ddb21
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 100%
+source-wordcount: '280'
+ht-degree: 98%
 
 ---
 
@@ -58,6 +58,7 @@ ht-degree: 100%
       + [Publicación de la audiencia](components/audiences/audience-publishing-for-cja.md)
 + Paneles {#panels}
    + [Configurar el panel de elementos siguiente y anterior](panels/configure-next-previous-item-panel.md)
+   + [Uso del panel de experimentación](panels/use-the-experimentation-panel.md)
 + Anotaciones {#annotations}
    + [Crear una anotación](components/create-an-annotation.md)
 + Paneles (cuadros de resultados) {#dashboards}
