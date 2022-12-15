@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 143f2dfb69c303e5dbe83a37efc88622ea1ddb21
+source-git-commit: 06eb1fea41a95769f2f4499ef2c11e834e211faa
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -67,6 +67,10 @@ ht-degree: 98%
 + Exportación {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder para Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
++ Casos prácticos {#use-cases}
+   + Casos de uso de vistas de datos {#data-views-use-cases}
+      + [Informes de sesiones de primera y de retorno](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
+      + [Aprovechar el soporte de campo de fecha](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Modelos {#blueprints}
    + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=es)
    + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html?lang=es)
