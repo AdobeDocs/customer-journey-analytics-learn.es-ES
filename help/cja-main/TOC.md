@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 06eb1fea41a95769f2f4499ef2c11e834e211faa
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '295'
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
    + [Explicación de Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Nuevos términos y conceptos](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Página de aterrizaje de Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
-+ Arquitectura  {#architecture}
++ Arquitectura {#architecture}
    + [Arquitectura e integraciones](architecture/architecture-and-integrations-of-cja.md)
 + Preparación y planificación de datos {#data-prep}
    + [Trabajo con los datos](data-prep/working-with-data-in-cja.md)
@@ -69,7 +69,7 @@ ht-degree: 0%
       + [Report Builder para Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
 + Casos prácticos {#use-cases}
    + Casos de uso de vistas de datos {#data-views-use-cases}
-      + [Informes de sesiones de primera y de retorno](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
+      + [Informes de sesiones de primera vez y de retorno](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [Aprovechar el soporte de campo de fecha](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Modelos {#blueprints}
    + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=es)
