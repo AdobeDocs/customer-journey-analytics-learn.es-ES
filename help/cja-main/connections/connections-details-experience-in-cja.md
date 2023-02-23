@@ -1,26 +1,23 @@
 ---
-title: Experiencia de detalles de conexiones en CJA
-description: Le damos la bienvenida a la experiencia de detalles de Conexiones, que le permitirá comprobar el estado de los conjuntos de datos de la conexión, así como el proceso de ingesta.
+title: Ver, solucionar problemas y modificar la configuración de conexión
+description: El Administrador de conexiones le permite comprobar el estado de la incorporación de conjuntos de datos de la conexión. Esta interfaz también le informa de cuándo hay datos disponibles para iniciar el análisis en Workspace.
 feature: Connections
 topic: Administration
+doc-type: feature video
 role: Admin
 level: Beginner
-kt: 10221
 thumbnail: 342097.jpg
+kt: 10221
 exl-id: 49a902be-bb17-4bcb-b86e-0c7a93b1d580
-source-git-commit: 846dd86b60d456469618d6f6ea9c26a726215687
-workflow-type: ht
-source-wordcount: '137'
-ht-degree: 100%
+source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
+workflow-type: tm+mt
+source-wordcount: '87'
+ht-degree: 0%
 
 ---
 
-# Experiencia de detalles de conexiones en CJA
+# Ver, solucionar problemas y modificar la configuración de conexión
 
-Bienvenido a la experiencia de detalles de Conexiones, que le permitirá comprobar el estado de los conjuntos de datos de su conexión y del proceso de ingesta.
+El Administrador de conexiones le permite comprobar el estado de la incorporación de conjuntos de datos de la conexión. Esta interfaz también le informa de cuándo hay datos disponibles para iniciar el análisis en Workspace. Obtenga información sobre cómo identificar discrepancias de datos debido a una configuración incorrecta, administrar las fechas de importación de datos y eliminar conjuntos de datos de conexiones.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
-
-Esta comprobación de estado le permite saber cuándo están disponibles los datos para poder entrar en Analysis Workspace e iniciar el análisis. Además, le permitirá identificar cualquier discrepancia en los datos debido a una configuración incorrecta. ¿Hay filas omitidas o eliminadas? En caso afirmativo, ¿cuántas de ellas se omitieron o eliminaron y cuándo? ¿Configuró incorrectamente las conexiones y esto causó la omisión de datos en CJA?
-
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=es).
