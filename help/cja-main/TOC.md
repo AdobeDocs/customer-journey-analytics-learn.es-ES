@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
-workflow-type: ht
-source-wordcount: '299'
-ht-degree: 100%
+source-git-commit: 10ec6e677c3e8ae5960d98e9c2fa98fdc9f06132
+workflow-type: tm+mt
+source-wordcount: '298'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 + Conexiones {#connections}
    + [Conectarse a fuentes de datos de Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Ver, solucionar problemas y modificar la configuración de conexión](connections/connections-details-experience-in-cja.md)
-   + [Adición de datos anteriores a una conexión existente](connections/add-past-data-to-an-existing-connection-in-cja.md)
+   + [Añadir nuevos datos a una conexión](connections/add-past-data-to-an-existing-connection-in-cja.md)
 + Identificación de visitantes {#visitor-id}
    + [Explicación de cómo utiliza CJA la identidad](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
 + Vistas de datos {#data-views}
