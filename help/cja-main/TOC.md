@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 10ec6e677c3e8ae5960d98e9c2fa98fdc9f06132
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '298'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 97%
    + [Explicación de Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Nuevos términos y conceptos](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Página de aterrizaje de Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
-+ Arquitectura  {#architecture}
++ Arquitectura {#architecture}
    + [Arquitectura e integraciones](architecture/architecture-and-integrations-of-cja.md)
 + Preparación y planificación de datos {#data-prep}
    + [Trabajo con los datos](data-prep/working-with-data-in-cja.md)
