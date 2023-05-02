@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 20114569963ebaf9c1feea4b5a2cc568d66e6985
 workflow-type: tm+mt
 source-wordcount: '324'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 96%
 + [Información general sobre Customer Journey Analytics](overview.md)
 + Conceptos básicos de Customer Journey Analytics {#cja-basics}
    + [¿Qué es Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
-   + [Introducción al Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
+   + [Introducción a Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Nuevos términos y conceptos](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Página de aterrizaje de Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
 + Arquitectura {#architecture}
