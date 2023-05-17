@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5b7ce13569961cc78be0e2946e3e9607f5ed9a6b
+source-git-commit: 7b4c5bfd8f3fef5a8b52597958efbfeec98c3b45
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 100%
+source-wordcount: '327'
+ht-degree: 92%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 100%
    + [Configuración de las opciones sin valor en vistas de datos](data-views/configure-no-value-options-in-data-views.md)
    + [Configuración de atribución en vistas de datos](data-views/attribution-settings-in-data-views.md)
 + Analysis Workspace {#analysis-workspace}
-   + Proyecto del Espacio de trabajo {#workspace-projects}
+   + Proyectos de Workspace {#workspace-projects}
       + [Información general de Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Creación de un nuevo proyecto](analysis-workspace/workspace-projects/build-a-new-project.md)
 + Visualizaciones {#visualizations}
@@ -62,6 +62,8 @@ ht-degree: 100%
       + [Paso de métricas calculadas de Adobe Analytics a Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
    + Audiencias {#audiences}
       + [Publicación de la audiencia](components/audiences/audience-publishing-for-cja.md)
+   + Diccionario de datos {#data-dictionary}
+      + [Usar el diccionario de datos](components/data-dictionary/use-data-dictionary.md)
 + Paneles {#panels}
    + [Configurar el panel de elementos siguiente y anterior](panels/configure-next-previous-item-panel.md)
    + [Uso del panel de experimentación](panels/use-the-experimentation-panel.md)
@@ -77,12 +79,9 @@ ht-degree: 100%
 + Casos prácticos {#use-cases}
    + Casos de uso de vistas de datos {#data-views-use-cases}
       + [Informes de sesiones de primera vez y de retorno](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-      + [Aprovechar el soporte de campo de fecha](use-cases/data-views-use-cases/leverage-date-field-support.md)
+      + [Usar compatibilidad con campos de fecha](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Modelos {#blueprints}
    + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=es)
-   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html?lang=es)
-   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=es#customer-journey-analytics)
+   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
+   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
 
-
-
-[def]: analysis-workspace/workspace-projects/build-a-new-project.md
