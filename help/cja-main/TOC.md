@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 7b4c5bfd8f3fef5a8b52597958efbfeec98c3b45
+source-git-commit: aac1b820fda0e1ea8c21938ae23f0e5b0034d7ab
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 92%
+source-wordcount: '329'
+ht-degree: 93%
 
 ---
 
@@ -50,6 +50,7 @@ ht-degree: 92%
 + Visualizaciones {#visualizations}
    + [Creación de visualizaciones en canales múltiples](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [Atribución en canales múltiples](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+   + [Pies de ilustración inteligentes](visualizations/intelligent-captions.md)
 + Componentes {#components}
    + Filtros (segmentación) {#filters}
       + [Información general de Filtros](components/filters/introduction-to-filters-in-cja.md)
@@ -63,7 +64,7 @@ ht-degree: 92%
    + Audiencias {#audiences}
       + [Publicación de la audiencia](components/audiences/audience-publishing-for-cja.md)
    + Diccionario de datos {#data-dictionary}
-      + [Usar el diccionario de datos](components/data-dictionary/use-data-dictionary.md)
+      + [Usar diccionario de datos](components/data-dictionary/use-data-dictionary.md)
 + Paneles {#panels}
    + [Configurar el panel de elementos siguiente y anterior](panels/configure-next-previous-item-panel.md)
    + [Uso del panel de experimentación](panels/use-the-experimentation-panel.md)
