@@ -8,8 +8,8 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 4c6b2cad13a20c04c40e937275a2c22c21fc3463
-workflow-type: ht
+source-git-commit: afc741e79f6aee13094ab3c3493885ce91c38284
+workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 100%
 
@@ -31,16 +31,13 @@ Customer Journey Analytics permite controlar cómo conectar los datos en línea 
 ## Novedades
 
 * **[Paso de segmentos de Adobe Analytics a Customer Journey Analytics (vídeo)](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
-
-   *Obtenga más información acerca de cómo volver a crear los segmentos de Adobe Analytics en Customer Journey Analytics*
+  *Obtenga más información acerca de cómo volver a crear los segmentos de Adobe Analytics en Customer Journey Analytics*
 
 * **[Paso de métricas calculadas de Adobe Analytics a Customer Journey Analytics (vídeo)](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
-
-   *Descubra sugerencias para volver a crear las métricas calculadas de Adobe Analytics en Customer Journey Analytics*
+  *Descubra sugerencias para volver a crear las métricas calculadas de Adobe Analytics en Customer Journey Analytics*
 
 * **[Creación de filtros multicanal (vídeo)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
-
-   *Creación de filtros en Customer Journey Analytics que utilicen más de una fuente de datos y más de un canal*
+  *Creación de filtros en Customer Journey Analytics que utilicen más de una fuente de datos y más de un canal*
 
 </div>
 
@@ -84,11 +81,11 @@ Customer Journey Analytics permite controlar cómo conectar los datos en línea 
     <p>
   </td>
   <td>
-    <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
+    <a href="analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
       <img alt="Atribución en canales múltiples en Customer Journey Analytics" src="assets/31772.jpg" />
     </a>
     <div>
-      <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
+      <a href="analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
     <strong>Atribución en canales múltiples en Customer Journey Analytics</strong>
     </a>
     </div>
