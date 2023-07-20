@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13674
 thumbnail: 3421664.jpeg
-source-git-commit: a4882de82016fe9d52c735e0e12bc084b725c22a
+source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 8%
@@ -18,7 +18,7 @@ ht-degree: 8%
 
 # Análisis del crecimiento de usuarios netos
 
-Aprenda a utilizar el **vista del crecimiento neto** en Adobe Product Analytics, que proporciona información sobre la velocidad a la que gana o pierde usuarios durante un periodo específico.
+Aprenda a utilizar el **vista del crecimiento neto** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), que proporciona perspectivas sobre la velocidad a la que se ganan o pierden usuarios durante un periodo específico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
 

@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13672
 thumbnail: 3421662.jpeg
-source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
+source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 10%
@@ -18,7 +18,7 @@ ht-degree: 10%
 
 # Análisis de tendencias de conversión de canal
 
-Aprenda a utilizar el **vista de tendencias de conversión** en Adobe Product Analytics, que realiza un seguimiento de los cambios en las tasas de conversión de canal a lo largo del tiempo.
+Aprenda a utilizar el **vista de tendencias de conversión** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), que realiza un seguimiento de los cambios en las tasas de conversión de canal a lo largo del tiempo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 
