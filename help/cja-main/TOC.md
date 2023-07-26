@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -55,26 +55,26 @@ ht-degree: 70%
    + Visualizaciones {#visualizations}
       + [Creación de visualizaciones en canales múltiples](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [Atribución en canales múltiples](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-      + [Creación de subtítulos inteligentes](analysis-workspace/visualizations/intelligent-captions.md)
-      + [Adición de visualizaciones de área](analysis-workspace/visualizations/add-area-visualizations.md)
-      + [Adición de visualizaciones de barra](analysis-workspace/visualizations/add-bar-visualizations.md)
+      + [Crear subtítulos inteligentes](analysis-workspace/visualizations/intelligent-captions.md)
+      + [Añadir visualizaciones de áreas](analysis-workspace/visualizations/add-area-visualizations.md)
+      + [Añadir visualizaciones de barra](analysis-workspace/visualizations/add-bar-visualizations.md)
       + [Añadir visualizaciones de gráficos de viñetas](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
-      + [Adición de visualizaciones de anillo](analysis-workspace/visualizations/add-donut-visualizations.md)
-      + [Adición de visualizaciones de líneas](analysis-workspace/visualizations/add-line-visualizations.md)
-      + [Uso de la visualización de mapas](analysis-workspace/visualizations/use-map-visualization.md)
-      + [Uso de visualizaciones de resumen](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [Añadir visualizaciones de anillo](analysis-workspace/visualizations/add-donut-visualizations.md)
+      + [Añadir visualizaciones de líneas](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [Usar la visualización de mapas](analysis-workspace/visualizations/use-map-visualization.md)
+      + [Usar visualizaciones de resumen](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Añadir visualizaciones de texto](analysis-workspace/visualizations/add-text-visualizations.md)
-      + [Uso de la visualización del diagrama de dispersión](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
-      + [Añadir la visualización del mapa del árbol](analysis-workspace/visualizations/add-treemap-visualizations.md)
-      + [Creación de visualizaciones totalmente apiladas](analysis-workspace/visualizations/create-stacked-visualizations.md)
+      + [Usar la visualización del diagrama de dispersión](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [Acerca de la visualización del mapa de árbol](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [Crear visualizaciones totalmente apiladas](analysis-workspace/visualizations/create-stacked-visualizations.md)
    + Anotaciones {#annotations}
-      + [Creación una anotación](analysis-workspace/annotations/create-an-annotation.md)
+      + [Crear una anotación](analysis-workspace/annotations/create-an-annotation.md)
    + Depurar y compartir {#curate-and-share}
       + [Compartir con cualquier persona en Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-   + Sugerencias y trucos {#tips-and-tricks}
-      + [Creación de filtros desplegables dinámicos](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+   + Pestaña Sugerencias y trucos {#tips-and-tricks}
+      + [Crear filtros desplegables dinámicos](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
-   + [información general de Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
+   + [Información general sobre Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Análisis guiado {#guided-analysis}
    + Impacto {#impact}
       + [Análisis de impacto de versiones](guided-analysis/impact/release-impact-analysis.md)
@@ -83,7 +83,7 @@ ht-degree: 70%
       + [Análisis de fricción de canal](guided-analysis/funnel/funnel-friction-analysis.md)
       + [Análisis de tendencias de conversión de canal](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
    + Crecimiento de usuarios {#user-growth}
-      + [Análisis activo del crecimiento del usuario](guided-analysis/user-growth/active-user-growth-analysis.md)
+      + [Análisis del crecimiento de usuarios activos](guided-analysis/user-growth/active-user-growth-analysis.md)
       + [Análisis del crecimiento de usuarios netos](guided-analysis/user-growth/net-user-growth-analysis.md)
    + Tendencias {#trends}
       + [Análisis de tendencias de uso](guided-analysis/trends/usage-trends-analysis.md)
@@ -91,7 +91,7 @@ ht-degree: 70%
    + Filtros (segmentación) {#filters}
       + [Información general de Filtros](components/filters/introduction-to-filters-in-cja.md)
       + [Crear de un filtro rápido](components/filters/create-a-quick-filter.md)
-      + [Creación de filtros en canales múltiples](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [Crear filtros en canales múltiples](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Usar filtros como dimensiones](components/filters/use-filters-as-dimensions.md)
       + [Paso de segmentos de Adobe Analytics a Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + Métricas calculadas {#calc-metrics}
@@ -103,7 +103,7 @@ ht-degree: 70%
       + [Usar diccionario de datos](components/data-dictionary/use-data-dictionary.md)
 + Paneles (cuadros de resultados) {#dashboards}
    + [Creación de un cuadro de resultados móvil](dashboards/create-a-mobile-scorecard.md)
-   + [Ayuda a los ejecutivos con acceso al informe de valoración móvil](dashboards/assist-executives-to-access-mobile-scorecards.md)
+   + [Ayude a los ejecutivos con el acceso a los cuadros de resultados móviles](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + Exportación {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder para Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
@@ -111,8 +111,8 @@ ht-degree: 70%
 + Casos prácticos {#use-cases}
    + Casos de uso de vistas de datos {#data-views-use-cases}
       + [Informes de sesiones de primera vez y de retorno](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-      + [Usar compatibilidad con campos de fecha](use-cases/data-views-use-cases/leverage-date-field-support.md)
+      + [Usar el soporte de campo de fecha](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Modelos {#blueprints}
    + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=es)
-   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
-   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
+   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=es)
+   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=es)
