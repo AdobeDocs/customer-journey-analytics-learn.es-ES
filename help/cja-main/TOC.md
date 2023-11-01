@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 0a6b0d64409beed4ea18fadb29006ad19c5548ec
+source-git-commit: f4a115aac609e7aacf84ea17fad1f13d9fd5a268
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 100%
+source-wordcount: '445'
+ht-degree: 99%
 
 ---
 
@@ -106,6 +106,7 @@ ht-degree: 100%
    + [Creación de un cuadro de resultados móvil](dashboards/create-a-mobile-scorecard.md)
    + [Ayude a los ejecutivos con el acceso a los cuadros de resultados móviles](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + Exportación {#exporting}
+   + [Exportación de tabla completa](exporting/full-table-export.md)
    + Report Builder {#report-builder}
       + [Report Builder para Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Programar libros de Customer Journey Analytics mediante Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
