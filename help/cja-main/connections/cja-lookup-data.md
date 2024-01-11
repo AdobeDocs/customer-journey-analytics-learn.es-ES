@@ -1,6 +1,6 @@
 ---
 title: Búsquedas de CJA para datos de perfil y búsqueda
-description: Con las búsquedas de CJA en los datos de búsqueda y perfil, los usuarios pueden utilizar relaciones más profundas entre elementos de datos, como persona a cuenta en casos de uso B2B.  En este vídeo, explicamos cómo agregar datos de búsqueda a conjuntos de datos de búsqueda y perfil y cómo planificar y asignar los campos clave.  Tenga en cuenta que si existe una relación de uno a varios entre la clave y el valor de búsqueda, se utilizará el valor más reciente.
+description: Obtenga información sobre cómo agregar datos de búsqueda a conjuntos de datos de búsqueda y perfil, y planificar y asignar los campos clave.
 feature: Ingestion
 role: User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 360
 last-substantial-update: 2023-12-18T00:00:00Z
 jira: KT-14719
 thumbnail: 3426424.jpeg
-source-git-commit: 19e2106259bb4d9b13eaebebdb5ae076406b29cf
+source-git-commit: e253ef465c58225cd1e7cb3db67442adbc57ed05
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
