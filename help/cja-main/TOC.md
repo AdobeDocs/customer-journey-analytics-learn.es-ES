@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 9cd00588e7ced90f0840840dbbc87c8912715543
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '435'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -108,7 +108,7 @@ ht-degree: 93%
    + [Creación de un cuadro de resultados móvil](dashboards/create-a-mobile-scorecard.md)
    + [Ayude a los ejecutivos con el acceso a los cuadros de resultados móviles](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + Exportación {#exporting}
-   + [Exportación de tabla completa](exporting/full-table-export.md)
+   + [Exportación de tablas completas](exporting/full-table-export.md)
    + Report Builder {#report-builder}
       + [Report Builder para Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Programar libros de Customer Journey Analytics mediante Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
@@ -119,6 +119,6 @@ ht-degree: 93%
    + Datos complejos {#complex-data}
       + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
-   + [modelo de Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=es){target=_blank}
+   + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=es){target=_blank}
    + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=es){target=_blank}
-   + [Escenario de análisis de recorrido de desviación de llamadas](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=es){target=_blank}
+   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=es){target=_blank}
