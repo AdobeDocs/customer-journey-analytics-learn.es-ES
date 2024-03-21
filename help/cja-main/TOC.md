@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 7304fe6e7961a788c01386366c7e2fa738703f86
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -87,11 +87,11 @@ ht-degree: 97%
       + [Análisis de impacto del primer uso](guided-analysis/impact/first-use-impact-analysis.md)
    + Tendencias {#trends}
       + [Análisis de tendencias de uso](guided-analysis/trends/usage-trends-analysis.md)
-   + Flujo de usuario {#user-stream}
-      + [Análisis de cronología de flujo de usuario](guided-analysis/user-stream/user-stream-timeline-analysis.md)
+   + Flujo de usuarios {#user-stream}
+      + [Análisis de la cronología del flujo de usuarios](guided-analysis/user-stream/user-stream-timeline-analysis.md)
    + Crecimiento de usuarios {#user-growth}
       + [Análisis del crecimiento de usuarios activos](guided-analysis/user-growth/active-user-growth-analysis.md)
-      + [Análisis del crecimiento de usuarios netos](guided-analysis/user-growth/net-user-growth-analysis.md)
+      + [Análisis del crecimiento neto de usuarios](guided-analysis/user-growth/net-user-growth-analysis.md)
 + Componentes {#components}
    + Filtros (segmentación) {#filters}
       + [Información general de Filtros](components/filters/introduction-to-filters-in-cja.md)
