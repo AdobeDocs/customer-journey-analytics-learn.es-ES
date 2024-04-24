@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c1654261e5974c4ec07f126bf35c256c9c64e804
-workflow-type: ht
-source-wordcount: '446'
-ht-degree: 100%
+source-git-commit: 80d3b48fa942b143668851ac2707db6ff140055e
+workflow-type: tm+mt
+source-wordcount: '449'
+ht-degree: 99%
 
 ---
 
@@ -87,6 +87,7 @@ ht-degree: 100%
       + [Análisis de impacto de versiones](guided-analysis/impact/release-impact-analysis.md)
       + [Análisis de impacto del primer uso](guided-analysis/impact/first-use-impact-analysis.md)
    + Tendencias {#trends}
+      + [Análisis de tendencias de frecuencia](guided-analysis/trends/frequency-trends-analysis.md)
       + [Análisis de tendencias de uso](guided-analysis/trends/usage-trends-analysis.md)
    + Flujo de usuarios {#user-stream}
       + [Análisis de la cronología del flujo de usuarios](guided-analysis/user-stream/user-stream-timeline-analysis.md)
