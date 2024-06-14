@@ -8,7 +8,7 @@ doc-type: Feature Video
 jira: KT-15095
 thumbnail: 3429489.jpeg
 last-substantial-update: 2024-06-14T00:00:00Z
-source-git-commit: 11345e8ae8fca8b1f6a9abcec60677fd1e0d49ac
+source-git-commit: bd5225b31edace77b78e1a8b80ec9fcdc88ba6cc
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 7%
@@ -17,7 +17,7 @@ ht-degree: 7%
 
 # Análisis de participación de funciones
 
-Aprenda a utilizar el **vista de participación de funciones** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md). Este análisis proporciona perspectivas sobre la frecuencia con la que se utilizan las funciones del producto frente al número de personas que las utilizan. Compare varias funciones al mismo tiempo para obtener ventajas óptimas. ayuda a tomar decisiones de inversión al comprender sus características principales, su potencia, únicas y cuestionables.
+Aprenda a utilizar el **vista de participación de funciones** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md). Este análisis proporciona perspectivas sobre la frecuencia con la que se utilizan las funciones del producto frente al número de personas que las utilizan. Compare varias funciones al mismo tiempo para obtener ventajas óptimas. Esto ayuda a tomar decisiones de inversión al comprender sus características principales, su potencia, sus características únicas y cuestionables.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 
