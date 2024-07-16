@@ -1,6 +1,6 @@
 ---
 title: Análisis de fricción de canal
-description: Aprenda a utilizar la vista de fricción de canal en Adobe Product Analytics, que proporciona una representación visual de un recorrido de usuario crítico en el producto y le ayuda a determinar dónde hay fricción en él.
+description: Aprenda a utilizar la vista de fricción de canal en Customer Journey Analytics, que proporciona una representación visual de un recorrido de usuario crítico en el producto y le ayuda a determinar dónde hay fricción en él.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -9,7 +9,7 @@ last-substantial-update: 2024-07-12T00:00:00Z
 jira: KT-13673
 thumbnail: 3421663.jpeg
 exl-id: 52211513-1cda-4173-aebd-4af752c87604
-source-git-commit: ada35ca9c8ef98d685d28f8e02d6cb7297b0d6f0
+source-git-commit: 1da4a8eabe968138d600337a7b570c8fb72001c7
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 5%
@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Análisis de fricción de canal
 
-Aprenda a utilizar la **vista de fricción de embudo** en el [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), que proporciona una representación visual de un recorrido de usuario crítico en su producto y le ayuda a determinar dónde hay fricción en él.
+Aprenda a utilizar la **vista de fricción de embudo** en el Customer Journey Analytics, que proporciona una representación visual de un recorrido de usuario crítico en el producto y le ayuda a determinar dónde hay fricción en él.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 

@@ -1,6 +1,6 @@
 ---
 title: Análisis de tendencias de frecuencia
-description: Descubra cómo la vista de Adobes Product Analytics de le permite analizar la participación del usuario con los eventos de su producto.
+description: Descubra cómo la vista de frecuencias en Customer Journey Analytics le permite analizar la participación del usuario con los eventos de su producto.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -8,16 +8,17 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-23T00:00:00Z
 jira: KT-15090
 thumbnail: 3428089.jpeg
-source-git-commit: 80d3b48fa942b143668851ac2707db6ff140055e
+exl-id: 06874ef1-c746-4df5-a476-22286e5f0751
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 13%
+ht-degree: 24%
 
 ---
 
 # Análisis de tendencias de frecuencia
 
-Obtenga información acerca de cómo **vista de frecuencia** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md) permite analizar la participación del usuario en los eventos del producto.
+Obtenga información sobre cómo la **vista de frecuencia** de Customer Journey Analytics le permite analizar la participación del usuario con eventos de su producto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
 
