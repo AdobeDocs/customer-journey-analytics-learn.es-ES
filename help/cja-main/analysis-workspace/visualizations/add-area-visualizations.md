@@ -1,6 +1,6 @@
 ---
-title: Añadir visualizaciones de área a [!DNL Analysis Workspace] proyectos
-description: Aprenda a añadir visualizaciones de áreas y áreas apiladas a [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics].
+title: Agregar visualizaciones de área a  [!DNL Analysis Workspace] proyectos
+description: Aprenda a agregar visualizaciones de áreas y áreas apiladas a  [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13491
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: b9bdf5d0-e5e6-4b55-8958-c38f9ce444f5
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# Añadir [!UICONTROL visualizaciones de áreas] hasta [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]
+# Agregar [!UICONTROL visualizaciones de área] a [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]
 
-Aprenda a añadir [!UICONTROL área] y [!UICONTROL área apilada] visualizaciones para [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]. Estas visualizaciones son perfectas para usar cuando hay varias métricas para las que desea visualizar el área en función de la intersección de dos o más métricas.
+Aprenda a agregar visualizaciones de [!UICONTROL área] y [!UICONTROL área apilada] a [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]. Estas visualizaciones son perfectas para usar cuando hay varias métricas para las que desea visualizar el área en función de la intersección de dos o más métricas.
 
 >[!NOTE]
 >
->El [!DNL Analysis Workspace] La interfaz de usuario y las funciones de son similares en todos los casos [!DNL Adobe Analytics] y [!DNL Customer Journey Analytics].
+>La interfaz de usuario y las características de [!DNL Analysis Workspace] son similares en [!DNL Adobe Analytics] y [!DNL Customer Journey Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
-Para obtener más información acerca de [!UICONTROL área] visualizaciones, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html).
+Para obtener más información acerca de las visualizaciones de [!UICONTROL área], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html).

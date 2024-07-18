@@ -8,13 +8,13 @@ doc-type: Technical Video
 duration: 301
 last-substantial-update: 2024-06-05T00:00:00Z
 jira: KT-15651
-source-git-commit: bc00eebddc4f6706825d3b6647bd48e4e891d466
+exl-id: b5c16b6b-3a84-49f5-b29b-a753c35e2212
+source-git-commit: 24f3909672b9861611731632e6346f346efc4d24
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
-
 
 # Información general sobre la vinculación basada en gráficos
 
@@ -25,5 +25,5 @@ La vinculación basada en gráficos le permite aprovechar el poder del gráfico 
 Mediante la vinculación basada en gráficos, utilizamos el gráfico de identidad para obtener una mejor vista del Recorrido del cliente mediante:
 
 * Combinación de conjuntos de datos con diferentes identificadores sin tener que usar datos de ETL para reflejar un solo identificador
-* Mejora de la cobertura de la identidad preferida o dorada para un único conjunto de datos compartiendo identidades entre conjuntos de datos.
+* La mejora de la cobertura de la identidad preferida o dorada para un único conjunto de datos compartiendo identidades entre conjuntos de datos.
 * Alinear perfiles creados en Adobe Real-Time CDP y Adobe Journey Optimizer con personas de Adobe Customer Journey Analytics.

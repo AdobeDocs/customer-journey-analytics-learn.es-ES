@@ -1,6 +1,6 @@
 ---
-title: Añadir [!UICONTROL texto] visualizaciones para [!DNL Analysis Workspace] proyectos
-description: Aprenda a añadir y configurar [!UICONTROL texto] visualizaciones en [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics].
+title: Agregar visualizaciones de [!UICONTROL texto] a  [!DNL Analysis Workspace] proyectos
+description: Aprenda a agregar y configurar visualizaciones de [!UICONTROL texto] en  [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13426
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: f4ddd3fb-af0b-4594-9cde-81829885b611
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-# Añadir [!UICONTROL texto] visualizaciones para [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]
+# Agregar visualizaciones de [!UICONTROL texto] a [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]
 
-Aprenda a añadir y configurar [!UICONTROL texto] visualizaciones en [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]. Esta visualización es útil cuando desea expresar inquietudes acerca de métricas o agregar contexto a otros datos de un proyecto.
+Aprenda a agregar y configurar visualizaciones de [!UICONTROL texto] en [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]. Esta visualización es útil cuando desea expresar inquietudes acerca de métricas o agregar contexto a otros datos de un proyecto.
 
 >[!NOTE]
 >
->El [!DNL Analysis Workspace] La interfaz de usuario y las funciones de son similares en todos los casos [!DNL Adobe Analytics] y [!DNL Customer Journey Analytics].
+>La interfaz de usuario y las características de [!DNL Analysis Workspace] son similares en [!DNL Adobe Analytics] y [!DNL Customer Journey Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
 
-Para obtener más información acerca de [!UICONTROL texto] visualizaciones, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html).
+Para obtener más información acerca de las visualizaciones de [!UICONTROL text], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html).

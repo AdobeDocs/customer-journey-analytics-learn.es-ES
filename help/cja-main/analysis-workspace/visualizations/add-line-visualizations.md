@@ -1,6 +1,6 @@
 ---
-title: Añadir [!UICONTROL línea] visualizaciones para [!DNL Analysis Workspace] proyectos
-description: Aprenda a añadir y configurar [!UICONTROL línea] visualizaciones para [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics].
+title: Agregar visualizaciones de [!UICONTROL line] a  [!DNL Analysis Workspace] proyectos
+description: Aprenda a agregar y configurar visualizaciones de [!UICONTROL line] a  [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13406
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 8d3b23b0-a542-4aaf-99fc-d4de9d11585f
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 11%
+source-wordcount: '65'
+ht-degree: 1%
 
 ---
 
-# Añadir [!UICONTROL línea] visualizaciones para [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]
+# Agregar visualizaciones de [!UICONTROL line] a [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]
 
-Aprenda a añadir y configurar [!UICONTROL línea] visualizaciones en [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]. Esta visualización representa las métricas con una línea para mostrar cómo cambian los valores con el paso del tiempo.
+Aprenda a agregar y configurar visualizaciones de [!UICONTROL line] en [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]. Esta visualización representa las métricas con una línea para mostrar cómo cambian los valores con el paso del tiempo.
 
 >[!NOTE]
 >
->El [!DNL Analysis Workspace] La interfaz de usuario y las funciones de son similares en todos los casos [!DNL Adobe Analytics] y [!DNL Customer Journey Analytics].
+>La interfaz de usuario y las características de [!DNL Analysis Workspace] son similares en [!DNL Adobe Analytics] y [!DNL Customer Journey Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
-Para obtener más información acerca de [!UICONTROL línea] visualizaciones, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html?lang=es).
+Para obtener más información acerca de las visualizaciones de [!UICONTROL line], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html?lang=es).

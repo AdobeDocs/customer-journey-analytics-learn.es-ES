@@ -1,6 +1,6 @@
 ---
-title: Uso [!UICONTROL diagrama de puntos] visualizaciones en [!DNL Analysis Workspace] proyectos
-description: Aprenda a utilizar el [!UICONTROL diagrama de puntos] visualización en [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics].
+title: Usar visualizaciones de [!UICONTROL diagrama de dispersión] en  [!DNL Analysis Workspace] proyectos
+description: Aprenda a usar la visualización [!UICONTROL diagrama de dispersión] en  [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13428
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 2733a815-c030-4fad-81d9-3f38fb1e7378
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# Uso [!UICONTROL diagrama de puntos] visualizaciones en [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]
+# Usar visualizaciones de [!UICONTROL diagrama de dispersión] en [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]
 
-Aprenda a utilizar el [!UICONTROL diagrama de puntos] visualización en [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]. Esta visualización muestra la relación entre los elementos de dimensión y hasta tres métricas.
+Aprenda a utilizar la visualización [!UICONTROL diagrama de dispersión] en [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]. Esta visualización muestra la relación entre los elementos de dimensión y hasta tres métricas.
 
 >[!NOTE]
 >
->El [!DNL Analysis Workspace] La interfaz de usuario y las funciones de son similares en todos los casos [!DNL Adobe Analytics] y [!DNL Customer Journey Analytics].
+>La interfaz de usuario y las características de [!DNL Analysis Workspace] son similares en [!DNL Adobe Analytics] y [!DNL Customer Journey Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
-Para obtener más información acerca de [!UICONTROL diagrama de puntos] visualizaciones, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html).
+Para obtener más información acerca de las visualizaciones de [!UICONTROL diagrama de dispersión], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html).

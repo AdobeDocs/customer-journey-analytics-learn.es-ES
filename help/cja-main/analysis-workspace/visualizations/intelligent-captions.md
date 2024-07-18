@@ -1,5 +1,5 @@
 ---
-title: Creación de subtítulos inteligentes
+title: Crear subtítulos inteligentes
 description: Aprenda a habilitar subtítulos inteligentes en las visualizaciones para que pueda obtener perspectivas de lenguaje natural creadas automáticamente para usted acerca de sus datos.
 feature: Visualizations
 role: User
@@ -8,15 +8,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-02T00:00:00Z
 jira: KT-13383
 thumbnail: 3420131.jpeg
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 0ac3b231-97d3-4937-b15b-0e30b4f9de2a
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 9%
+source-wordcount: '62'
+ht-degree: 20%
 
 ---
 
-
-# Creación de subtítulos inteligentes
+# Crear subtítulos inteligentes
 
 Aprenda a habilitar subtítulos inteligentes en las visualizaciones para que pueda obtener perspectivas de lenguaje natural creadas automáticamente para usted acerca de sus datos.
 
