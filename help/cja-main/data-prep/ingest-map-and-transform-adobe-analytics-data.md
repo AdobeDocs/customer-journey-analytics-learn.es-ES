@@ -13,7 +13,6 @@ source-git-commit: a12cb54b55644bfaffb50eb5ca7313050b5db402
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
-
 ---
 
 # Ingesta, asignación y transformación de datos de Adobe Analytics
@@ -23,3 +22,4 @@ En este vídeo, se muestra cómo utilizar las funciones de preparación de datos
 >[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
 
 Para obtener más información, consulte la [Documentación del conector de origen de Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=es) y la [Documentación de funciones de preparación de datos](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html?lang=es).
+
