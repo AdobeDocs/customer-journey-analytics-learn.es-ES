@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5e5e972d7313b9ee64ffcfa411d4b7a34f1f9682
+source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
 workflow-type: tm+mt
 source-wordcount: '486'
-ht-degree: 93%
+ht-degree: 92%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 93%
    + [Configuración básica para vistas de datos](data-views/basic-configuration-for-data-views.md)
    + [Configuración de componentes en vistas de datos](data-views/configuring-component-settings-in-data-views.md)
    + [Configuración del tipo de componente en vistas de datos](data-views/component-type-settings-in-data-views.md)
+   + [Creación de fuentes de datos de resumen](data-views/create-summary-level-data-sources.md)
    + [Crear campos derivados](data-views/derived-fields-in-cja.md)
    + [Utilizar la función Math en campos derivados](data-views/use-the-math-function-in-derived-fields.md)
    + [Utilizar la función Next o Previous en campos derivados](data-views/use-the-next-previous-function-in-derived-fields.md)
@@ -67,7 +68,6 @@ ht-degree: 93%
       + [Añadir visualizaciones de gráficos de viñetas](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [Añadir visualizaciones de anillo](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [Añadir visualizaciones de líneas](analysis-workspace/visualizations/add-line-visualizations.md)
-      + [Usar la visualización de mapas](analysis-workspace/visualizations/use-map-visualization.md)
       + [Usar visualizaciones de resumen](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Añadir visualizaciones de texto](analysis-workspace/visualizations/add-text-visualizations.md)
       + [Usar la visualización del diagrama de dispersión](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
