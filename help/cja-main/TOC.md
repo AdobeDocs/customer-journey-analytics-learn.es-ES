@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 4d8c7a84ef9a70b0a071a776dc531182bad2462a
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '460'
 ht-degree: 92%
 
 ---
@@ -56,6 +56,8 @@ ht-degree: 92%
    + Proyectos de Workspace {#workspace-projects}
       + [Información general de Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Creación de un nuevo proyecto](analysis-workspace/workspace-projects/build-a-new-project.md)
+      + Análisis de recorrido {#journey-analysis}
+         + [Visualización de lienzo de recorrido](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Paneles {#panels}
       + [Configurar el panel de elementos siguiente y anterior](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Uso del panel de experimentación](analysis-workspace/panels/use-the-experimentation-panel.md)
