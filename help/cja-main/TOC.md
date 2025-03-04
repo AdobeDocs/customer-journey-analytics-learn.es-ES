@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 1b3acda2ed8d15b3c7cff5ac0a2848c41fe2b2a8
+source-git-commit: c64a6d08fea9782339f939102e0dc3b6ccf56d1c
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '468'
 ht-degree: 91%
 
 ---
@@ -58,7 +58,7 @@ ht-degree: 91%
       + [Creación de un nuevo proyecto](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Plantillas Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
       + Análisis de recorrido {#journey-analysis}
-         + [Visualización de lienzo de recorrido](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
+         + [Visualización del lienzo del recorrido](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Paneles {#panels}
       + [Configurar el panel de elementos siguiente y anterior](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Uso del panel de experimentación](analysis-workspace/panels/use-the-experimentation-panel.md)
@@ -86,6 +86,7 @@ ht-degree: 91%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Información general sobre Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Análisis guiado {#guided-analysis}
+   + [Uso del análisis guiado en Workspace](guided-analysis/guided-analysis-in-workspace.md)
    + [Crecimiento activo](guided-analysis/active-growth.md)
    + [Tendencias de conversión](guided-analysis/conversion-trends.md)
    + [Participación](guided-analysis/engagement.md)
@@ -129,5 +130,5 @@ ht-degree: 91%
       + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
    + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=es){target=_blank}
-   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=es){target=_blank}
+   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
