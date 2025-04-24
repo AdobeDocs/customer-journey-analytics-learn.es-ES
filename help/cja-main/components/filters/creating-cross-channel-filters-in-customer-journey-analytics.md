@@ -1,7 +1,7 @@
 ---
-title: Creación de filtros multicanal en Customer Journey Analytics
-description: En este vídeo analizamos cómo crear filtros en Customer Journey Analytics de Adobe que utilicen más de una fuente de datos y más de un canal. También verá cómo se pueden combinar estos filtros en las visualizaciones.
-feature: Filters
+title: Creación de segmentos multicanal en Customer Journey Analytics
+description: Aprenda a crear segmentos en Adobe Customer Journey Analytics que utilicen más de una fuente de datos y un canal únicos. Además, descubra cómo se pueden combinar segmentos en visualizaciones.
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,17 +11,19 @@ kt: 3962
 role: User
 level: Beginner
 exl-id: 6af79964-b56a-4bc8-9b2f-b2a64ec0edef
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 7%
 
 ---
 
-# Creación de [!UICONTROL filtros] multicanal en Customer Journey Analytics
+# Crear [!UICONTROL segmentos] de canales cruzados en Customer Journey Analytics
 
-En este vídeo explicamos cómo crear [!UICONTROL filtros] en Customer Journey Analytics que utilicen más de una fuente de datos y más de un canal. También verá cómo se pueden combinar estos [!UICONTROL filtros] en [!UICONTROL visualizaciones].
+Aprenda a crear [!UICONTROL segmentos] en Adobe Customer Journey Analytics que utilicen más de un origen de datos y canal únicos. Además, aprenderá cómo se pueden combinar [!UICONTROL segmentos] en [!UICONTROL visualizaciones]. Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
+
+>[!NOTE]
+>
+> Se cambió el nombre de &quot;[!UICONTROL Filters]&quot; a &quot;[!UICONTROL segments]&quot; en la interfaz de Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12&learn=on)
-
-Para obtener más información sobre Customer Journey Analytics, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=es).

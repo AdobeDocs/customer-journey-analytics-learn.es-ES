@@ -1,7 +1,7 @@
 ---
-title: Crear de un filtro rápido
-description: Cree filtros rápidos directamente en sus proyectos de Customer Journey Analytics y evite la complejidad del generador de filtros completo. Esta función le ofrece una forma cómoda de filtrar los datos de componentes en función de criterios sencillos y ver los resultados inmediatamente.
-feature: Components
+title: Creación de un segmento rápido
+description: Cree segmentos rápidos directamente en sus proyectos de Customer Journey Analytics y evite la complejidad del Generador de segmentos completo. Esta función le ofrece una forma cómoda de segmentar los datos de componentes en función de criterios sencillos y ver los resultados inmediatamente.
+feature: Segments
 role: Admin, User
 level: Beginner
 doc-type: feature video
@@ -9,15 +9,19 @@ thumbnail: 343743.jpg
 kt: 10452
 last-substantial-update: 2022-06-10T00:00:00Z
 exl-id: 0982261b-92da-48b0-a0b4-9bd24a083631
-source-git-commit: ce572d13eff204071f6fc558ca83a0f41f41d330
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '104'
+ht-degree: 14%
 
 ---
 
-# Crear de un filtro rápido
+# Creación de un segmento rápido
 
-Cree [!UICONTROL filtros rápidos] directamente en sus [!DNL Customer Journey Analytics] proyectos y eluda la complejidad del [!UICONTROL generador de filtros]. Esta función le ofrece una forma cómoda de filtrar los datos de componentes en función de criterios sencillos y ver los resultados inmediatamente.
+Cree [!UICONTROL segmentos rápidos] directamente en sus [!DNL Customer Journey Analytics] proyectos y evite la complejidad del [!UICONTROL Generador de segmentos] completo. Esta función le ofrece una forma cómoda de segmentar los datos de componentes en función de criterios sencillos y ver los resultados inmediatamente. Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/quick-filters).
+
+>[!NOTE]
+>
+> Se cambió el nombre de &quot;[!UICONTROL Filters]&quot; a &quot;[!UICONTROL segments]&quot; en la interfaz de Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343743/?quality=12&learn=on)

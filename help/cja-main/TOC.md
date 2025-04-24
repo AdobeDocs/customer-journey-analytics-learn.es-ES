@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 91%
+source-wordcount: '473'
+ht-degree: 84%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 91%
    + [Ver, solucionar problemas y modificar la configuración de conexión](connections/connections-details-experience-in-cja.md)
    + [Añadir nuevos datos a una conexión](connections/add-past-data-to-an-existing-connection-in-cja.md)
    + [Búsquedas de CJA para datos de perfil y búsqueda](connections/cja-lookup-data.md)
-+ Identificación de visitantes {#visitor-id}
++ Identificación de visitante {#visitor-id}
    + [Explicación de cómo utiliza CJA la identidad](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Configurar un ID de persona que falta](visitor-id/configure-missing-person-id.md)
    + [Información general sobre la vinculación](visitor-id/overview-of-stitching.md)
@@ -57,7 +57,7 @@ ht-degree: 91%
       + [Información general de Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Creación de un nuevo proyecto](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Plantillas Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
-      + Análisis de recorrido {#journey-analysis}
+      + análisis de recorrido {#journey-analysis}
          + [Visualización del lienzo del recorrido](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Paneles {#panels}
       + [Configurar el panel de elementos siguiente y anterior](analysis-workspace/panels/configure-next-previous-item-panel.md)
@@ -81,8 +81,8 @@ ht-degree: 91%
       + [Crear una anotación](analysis-workspace/annotations/create-an-annotation.md)
    + Depurar y compartir {#curate-and-share}
       + [Compartir con cualquier persona en Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-   + Pestaña Sugerencias y trucos {#tips-and-tricks}
-      + [Crear filtros desplegables dinámicos](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+   + Sugerencias y trucos {#tips-and-tricks}
+      + [Creación de segmentos desplegables dinámicos](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Información general sobre Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Análisis guiado {#guided-analysis}
@@ -94,22 +94,22 @@ ht-degree: 91%
    + [Frecuencia](guided-analysis/frequency.md)
    + [Canal](guided-analysis/funnel.md)
    + [Crecimiento neto](guided-analysis/net-growth.md)
-   + [Impacto de versión](guided-analysis/release-impact.md)
+   + [Impacto de la versión](guided-analysis/release-impact.md)
    + [Retención](guided-analysis/retention.md)
    + [Cronología](guided-analysis/timeline.md)
    + [Tendencias](guided-analysis/trends.md)
 + Componentes {#components}
-   + Filtros (segmentación) {#filters}
-      + [Información general de Filtros](components/filters/introduction-to-filters-in-cja.md)
-      + [Crear de un filtro rápido](components/filters/create-a-quick-filter.md)
-      + [Crear filtros en canales múltiples](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
-      + [Usar filtros como dimensiones](components/filters/use-filters-as-dimensions.md)
+   + Segmentos  {#filters}
+      + [Información general sobre los segmentos](components/filters/introduction-to-filters-in-cja.md)
+      + [Creación de un segmento rápido](components/filters/create-a-quick-filter.md)
+      + [Creación de segmentos en canales múltiples](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [Uso de segmentos como dimensiones](components/filters/use-filters-as-dimensions.md)
       + [Paso de segmentos de Adobe Analytics a Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
-   + Métricas calculadas {#calc-metrics}
+   + Métricas calculadas  {#calc-metrics}
       + [Introducción a las métricas calculadas en Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
       + [Paso de métricas calculadas de Adobe Analytics a Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
    + Audiencias {#audiences}
-      + [Publicación de la audiencia](components/audiences/audience-publishing-for-cja.md)
+      + [Publicación del público](components/audiences/audience-publishing-for-cja.md)
    + Diccionario de datos {#data-dictionary}
       + [Usar diccionario de datos](components/data-dictionary/use-data-dictionary.md)
 + Análisis de contenido {#content-analytics}
@@ -118,8 +118,8 @@ ht-degree: 91%
 + Paneles (cuadros de resultados) {#dashboards}
    + [Creación de un cuadro de resultados móvil](dashboards/create-a-mobile-scorecard.md)
    + [Ayude a los ejecutivos con el acceso a los cuadros de resultados móviles](dashboards/assist-executives-to-access-mobile-scorecards.md)
-+ Exportación {#exporting}
-   + [Exportación de tablas completas](exporting/full-table-export.md)
++ Exportando {#exporting}
+   + [Exportación de tabla completa](exporting/full-table-export.md)
    + Report Builder {#report-builder}
       + [Report Builder para Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Programar libros de Customer Journey Analytics mediante Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
