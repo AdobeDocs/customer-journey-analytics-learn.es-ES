@@ -21,4 +21,4 @@ Descubra cómo utilizar la función &#39;Siguiente o Anterior&#39; en Customer J
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-dataviews/derived-fields).

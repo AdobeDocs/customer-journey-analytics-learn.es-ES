@@ -22,4 +22,4 @@ Descubra cómo la **participación** en Customer Journey Analytics proporciona p
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement).

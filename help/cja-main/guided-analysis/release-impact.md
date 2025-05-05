@@ -22,4 +22,4 @@ Descubra cómo **impacto de la versión** en Customer Journey Analytics muestra 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=es).

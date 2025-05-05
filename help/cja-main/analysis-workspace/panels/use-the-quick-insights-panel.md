@@ -20,6 +20,6 @@ ht-degree: 8%
 
 Aprenda a responder preguntas comerciales de forma rápida y sencilla mediante el panel de información rápida de Customer Journey Analytics. Este panel, adecuado para nuevos usuarios o analistas avanzados, le permite experimentar de forma intuitiva con dimensiones, métricas, visualizaciones y segmentos para producir la mejor combinación de componentes para su análisis.
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/quickinsight).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/panels/quickinsight).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457905/?learn=on)

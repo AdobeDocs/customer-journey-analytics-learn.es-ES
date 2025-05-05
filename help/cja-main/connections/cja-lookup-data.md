@@ -21,6 +21,6 @@ ht-degree: 27%
 
 Con las búsquedas de CJA en los datos de búsqueda y perfil, los usuarios pueden utilizar relaciones más profundas entre elementos de datos, como persona a cuenta en casos de uso B2B.  En este vídeo, explicamos cómo agregar datos de búsqueda a conjuntos de datos de búsqueda y perfil y cómo planificar y asignar los campos clave.  Tenga en cuenta que si existe una relación de uno a varios entre la clave y el valor de búsqueda, se utilizará el valor más reciente.
 
-Para obtener documentación detallada, visite [Tipos de conjuntos de datos](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en#dataset-types) y [Agregue datos de nivel de cuenta como un conjunto de datos de consulta](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=en).
+Para obtener documentación detallada, visite [Tipos de conjuntos de datos](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=es#dataset-types) y [Agregue datos de nivel de cuenta como un conjunto de datos de consulta](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=es).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)

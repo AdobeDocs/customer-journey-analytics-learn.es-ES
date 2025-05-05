@@ -22,4 +22,4 @@ Descubra cómo el **crecimiento neto** de Customer Journey Analytics proporciona
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=es).

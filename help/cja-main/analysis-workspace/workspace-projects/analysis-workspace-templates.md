@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Plantillas Analysis Workspace
 
-¿No quieres empezar desde cero? Obtenga información sobre cómo iniciar el análisis en Workspace con una plantilla de Workspace. Puede elegir entre una plantilla de Adobe depurada o crear la suya propia para una plantilla organizativa personalizada. Busque la plantilla adecuada en una vista de tarjeta o una vista de columna, según sus preferencias. Para obtener documentación detallada, consulte [Crear y administrar plantillas](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/templates/create-templates?lang=en){target="_blank"}.
+¿No quieres empezar desde cero? Obtenga información sobre cómo iniciar el análisis en Workspace con una plantilla de Workspace. Puede elegir entre una plantilla de Adobe depurada o crear la suya propia para una plantilla organizativa personalizada. Busque la plantilla adecuada en una vista de tarjeta o una vista de columna, según sus preferencias. Para obtener documentación detallada, consulte [Crear y administrar plantillas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/templates/create-templates?lang=en){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443169/?learn=on&enablevpops)

@@ -27,4 +27,4 @@ Aprenda a agregar y configurar visualizaciones estándar de [!UICONTROL bar] y [
 
 >[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
 
-Para obtener más información acerca de las visualizaciones de [!UICONTROL bar], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).
+Para obtener más información acerca de las visualizaciones de [!UICONTROL bar], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=es).
