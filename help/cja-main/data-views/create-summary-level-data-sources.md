@@ -18,7 +18,7 @@ ht-degree: 7%
 
 Customer Journey Analytics admite datos de resumen que permiten a los usuarios agregar y analizar datos que no están organizados por ID individuales, como datos de campañas o productos. Se explica el proceso de integración de estos datos de resumen en Experience Platform, incluida la creación de conexiones, la configuración de vistas de datos y la combinación de datos de resumen con datos de evento para un sistema de informes completo. Esta capacidad permite obtener una información más detallada sobre el rendimiento de la campaña y mejora la flexibilidad de creación de informes dentro de CJA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433305/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449412/?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 

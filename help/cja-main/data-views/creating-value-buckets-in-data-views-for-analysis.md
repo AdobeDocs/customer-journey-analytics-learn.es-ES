@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Al configurar una [!UICONTROL Vista de datos] en Customer Journey Analytics, puede establecer una dimensión numérica para que se incluya en bloques definidos, de modo que pueda limitar el número de elementos disponibles para la tabla a rangos de números (lo que es genial). Este vídeo lo acompaña durante la configuración de esta función.
 
->[!VIDEO](https://video.tv.adobe.com/v/332864/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412357/?quality=12&learn=on&captions=spa)

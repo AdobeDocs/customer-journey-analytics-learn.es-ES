@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Al configurar componentes en una vista de datos en Customer Journey Analytics, puede elegir si un campo debe ser una métrica o una dimensión. En muchos casos, las cadenas deben ser dimensiones y los números, métricas. Sin embargo, hay algunos casos de uso ideales para cambiarlo. ¡Eche un vistazo!
 
->[!VIDEO](https://video.tv.adobe.com/v/333112/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412934/?quality=12&learn=on&captions=spa)

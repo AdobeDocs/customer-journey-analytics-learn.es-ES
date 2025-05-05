@@ -20,6 +20,6 @@ ht-degree: 25%
 
 Descubra cómo **las tendencias de conversión** en Customer Journey Analytics rastrean los cambios en las tasas de conversión de embudo a lo largo del tiempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423492/?learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=es).

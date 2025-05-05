@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Use **Análisis guiado** en Analysis Workspace para obtener información de datos de alta calidad mediante flujos de trabajo guiados. Esta función facilita el acceso, la creación, el guardado y la reutilización de los análisis, lo que optimiza tareas como el seguimiento de retención de usuarios y el análisis de canal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449320/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449500/?learn=on&captions=spa)

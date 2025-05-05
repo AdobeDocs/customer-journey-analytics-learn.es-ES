@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Una nueva experiencia Conexiones con nuevas funciones que permiten a los clientes habilitar una ventana de datos acumulados, activar y solicitar datos de relleno basados en la marca de tiempo de eventos e importar los datos existentes por conjunto de datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/343044/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409298/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=es).

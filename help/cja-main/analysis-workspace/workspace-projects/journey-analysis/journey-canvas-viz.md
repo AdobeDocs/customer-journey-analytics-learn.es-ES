@@ -20,6 +20,6 @@ ht-degree: 1%
 
 Obtenga información acerca de la visualización del lienzo de recorrido, que le permite analizar y obtener perspectivas profundas sobre los recorridos que proporciona a sus usuarios y clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440602/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440629/?learn=on&captions=spa)
 
 Los usuarios pueden crear recorridos con varios inicios, rutas o finales. Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas){target="_blank"}.

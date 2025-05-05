@@ -20,6 +20,6 @@ ht-degree: 18%
 
 Descubra cómo el **crecimiento neto** de Customer Journey Analytics proporciona perspectivas sobre la velocidad a la que gana o pierde usuarios durante un período específico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423466/?learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=es).

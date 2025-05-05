@@ -24,4 +24,4 @@ Aprenda a comparar y visualizar segmentos cuando se utilizan como dimensiones en
 >
 > Se cambió el nombre de &quot;[!UICONTROL Filters]&quot; a &quot;[!UICONTROL segments]&quot; en la interfaz de Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419024/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3449065/?learn=on&quality=12&captions=spa)
