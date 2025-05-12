@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: f111928de695435104b175ba10707d851e2819e8
+source-git-commit: c208de47f17e39a023aff40dcb97c95dc64bb958
 workflow-type: tm+mt
-source-wordcount: '534'
-ht-degree: 75%
+source-wordcount: '484'
+ht-degree: 82%
 
 ---
 
@@ -134,32 +134,6 @@ ht-degree: 75%
    + Datos complejos {#complex-data}
       + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
-   + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
-+ Adobe Summit {#summit}
-   + 2025 {#2025}
-      + Shorts {#shorts}
-         + [Vídeo corto](./summit/2025/shorts/algorithmic-attribution-a-game-changer-for-marketers.md)
-         + [Vídeo corto](./summit/2025/shorts/analytics-easy-mode-simplifying-workspace-for-all-users.md)
-         + [Vídeo corto](./summit/2025/shorts/anomaly-detection-in-customer-journey-analytics.md)
-         + [Vídeo corto](./summit/2025/shorts/audience-agent-proactive-audience-health-monitoring.md)
-         + [Vídeo corto](./summit/2025/shorts/best-practices-for-implementing-customer-journey-analytics.md)
-         + [Vídeo corto](./summit/2025/shorts/breaking-data-limits-with-summary-data-sources.md)
-         + [Vídeo corto](./summit/2025/shorts/content-analytics-ai-powered-insights-for-creative-assets.md)
-         + [Vídeo corto](./summit/2025/shorts/data-as-a-product-planning-your-cja-implementation.md)
-         + [Vídeo corto](./summit/2025/shorts/data-insights-agent-empowering-self-service-analytics.md)
-         + [Vídeo corto](./summit/2025/shorts/derived-fields-user-state-change-metrics.md)
-         + [Vídeo corto](./summit/2025/shorts/gamifying-workspace-unlock-achievements-in-customer-journey-analytics.md)
-         + [Vídeo corto](./summit/2025/shorts/graph-based-stitching-for-customer-journey-analytics.md)
-         + [Vídeo corto](./summit/2025/shorts/how-ai-assistant-transforms-data-insights-in-adobe-experience-platform.md)
-         + [Vídeo corto](./summit/2025/shorts/how-genai-enhances-customer-journey-analytics.md)
-         + [Vídeo corto](./summit/2025/shorts/identity-stitching-in-customer-journey-analytics.md)
-         + [Vídeo corto](./summit/2025/shorts/implementation-best-practices-for-customer-journey-analytics.md)
-         + [Vídeo corto](./summit/2025/shorts/in-line-derived-fields-real-time-data-transformation-in-cja.md)
-         + [Vídeo corto](./summit/2025/shorts/introducing-adobe-s-agent-orchestrator-the-next-era-of-genai-innovation.md)
-         + [Vídeo corto](./summit/2025/shorts/journey-canvas-visualizing-complex-funnels.md)
-         + [Vídeo corto](./summit/2025/shorts/run-and-operate-strategies-for-scaling-adobe-implementations.md)
-         + [Vídeo corto](./summit/2025/shorts/the-strategic-imperative-of-customer-analytics.md)
-         + [Vídeo corto](./summit/2025/shorts/three-types-of-cja-implementation-projects.md)
-         + [Vídeo corto](./summit/2025/shorts/understanding-customer-journey-analytics-as-your-dream-home.md)
+   + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
