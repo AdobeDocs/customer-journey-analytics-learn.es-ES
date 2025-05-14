@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Editar de forma eficaz las configuraciones de [!DNL Content Analytics] ajustando los nombres, las vistas de datos y la configuración de Experience Capture. Esta acción actualiza automáticamente las métricas y realiza ajustes precisos mediante la extensión de etiquetas de Content Analytics para obtener perspectivas optimizadas.
 
-Para obtener más información, revise la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
+Para obtener más información, revise la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458439/?learn=on&enablevpops)
