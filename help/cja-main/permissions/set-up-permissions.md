@@ -21,4 +21,4 @@ Este vídeo proporciona un tutorial paso a paso sobre la configuración de permi
 
 Para obtener más información, revise la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/technotes/access-control){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463383/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463388/?learn=on&captions=spa)
