@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: beb59cee00d1c5667a90c177acf45370351a5385
+source-git-commit: 27d553634dad11f8c0a9554ed8079d7d87169f32
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '508'
 ht-degree: 81%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 81%
    + [¿Qué es Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
    + [Introducción a Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Nuevos términos y conceptos](cja-basics/new-terms-and-concepts-in-cja.md)
-   + [Página de aterrizaje de Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
+   + [Página de destino de Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
 + Arquitectura {#architecture}
    + [Arquitectura e integraciones](architecture/architecture-and-integrations-of-cja.md)
 + Preparación y planificación de datos {#data-prep}
@@ -56,7 +56,7 @@ ht-degree: 81%
    + [Conversión de moneda](data-views/currency-conversion.md)
 + Data Insights Agent {#data-insights-agent}
    + [Primeros pasos](data-insights-agent/introduction-to-the-data-insights-agent.md)
-   + [Casos prácticos](data-insights-agent/data-insights-agent-use-cases.md)
+   + [Casos de uso](data-insights-agent/data-insights-agent-use-cases.md)
    + [Uso de Data Insights Agent](data-insights-agent/use-the-data-insights-agent.md)
 + Analysis Workspace {#analysis-workspace}
    + Proyectos de Workspace {#workspace-projects}
@@ -67,6 +67,7 @@ ht-degree: 81%
          + [Visualización del lienzo del recorrido](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Paneles {#panels}
       + [Agregar componentes al panel improvisado](analysis-workspace/panels/add-components-to-the-freeform-panel.md)
+      + [Creación del panel de atribución](analysis-workspace/panels/build-the-attribution-panel.md)
       + [Configurar el panel de elementos siguiente y anterior](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Uso del panel de experimentación](analysis-workspace/panels/use-the-experimentation-panel.md)
       + [Uso del panel de información rápida](analysis-workspace/panels/use-the-quick-insights-panel.md)
@@ -107,7 +108,7 @@ ht-degree: 81%
    + [Cronología](guided-analysis/timeline.md)
    + [Tendencias](guided-analysis/trends.md)
 + Componentes {#components}
-   + Segmentos  {#filters}
+   + Segmentos {#filters}
       + [Información general sobre los segmentos](components/filters/introduction-to-filters-in-cja.md)
       + [Creación de un segmento rápido](components/filters/create-a-quick-filter.md)
       + [Creación de segmentos en canales múltiples](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
@@ -135,13 +136,13 @@ ht-degree: 81%
       + [Programar libros de Customer Journey Analytics mediante Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
 + Integración de Experience Platform {#experience-platform-integration}
    + [Informes mejorados para Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
-+ Casos prácticos {#use-cases}
++ Casos de uso {#use-cases}
    + Casos de uso de vistas de datos {#data-views-use-cases}
       + [Informes de sesiones de primera vez y de retorno](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [Usar el soporte de campo de fecha](use-cases/data-views-use-cases/leverage-date-field-support.md)
    + Datos complejos {#complex-data}
       + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
-   + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
