@@ -19,6 +19,6 @@ ht-degree: 10%
 
 Use el Administrador de actividades de creación de informes en [!DNL Customer Journey Analytics] para supervisar y administrar la capacidad de creación de informes en las conexiones de la organización. Este vídeo explica cómo acceder a métricas clave, solucionar problemas de rendimiento y optimizar la eficacia del sistema.
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)
