@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5e70dad9cf7b4ea90209a8070dc8acf17f84f96e
+source-git-commit: 1dccea5dd18050c5205c585795186f8a1ec889f7
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 81%
+source-wordcount: '521'
+ht-degree: 80%
 
 ---
 
@@ -137,6 +137,8 @@ ht-degree: 81%
    + Report Builder {#report-builder}
       + [Report Builder para Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Programar libros de Customer Journey Analytics mediante Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
++ Administrador de actividades de creación de informes {#reporting-activity-manager}
+   + [Uso del Administrador de actividades de creación de informes](reporting-activity-manager/use-the-reporting-activity-manager.md)
 + Integración de Experience Platform {#experience-platform-integration}
    + [Informes mejorados para Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Casos de uso {#use-cases}
@@ -146,6 +148,6 @@ ht-degree: 81%
    + Datos complejos {#complex-data}
       + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
-   + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
