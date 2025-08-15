@@ -18,6 +18,6 @@ ht-degree: 7%
 
 # Configuración y uso de la visualización de mapas
 
-Haga que sus datos de ubicación cobren vida con la visualización de mapas. Identifique los clústeres geográficos y cree segmentos sobre la marcha con la herramienta de selección. Solo tiene que seguir unos sencillos pasos de configuración y estará listo para comenzar. Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}.
+Haga que sus datos de ubicación cobren vida con la visualización de mapas. Identifique los clústeres geográficos y cree segmentos sobre la marcha con la herramienta de selección. Solo tiene que seguir unos sencillos pasos de configuración y estará listo para comenzar. Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470819/?learn=on&enablevpops)
