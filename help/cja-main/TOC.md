@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 4170c3a3e09b497fd03e50a5141d0e8e0865e4bb
+source-git-commit: 0136260473c8941b3f774b35b57e44eff331ad60
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 79%
+source-wordcount: '545'
+ht-degree: 78%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 79%
    + [Introducción a Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Nuevos términos y conceptos](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Página de destino de Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
+   + [Utilizar el asistente de IA](cja-basics/use-ai-assistant.md)
 + Arquitectura {#architecture}
    + [Arquitectura e integraciones](architecture/architecture-and-integrations-of-cja.md)
 + Preparación y planificación de datos {#data-prep}
@@ -58,7 +59,6 @@ ht-degree: 79%
       + [Personalizar profundidad del evento](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
       + [Usar Typecasting](data-views/derived-fields/use-typecasting-in-derived-fields.md)
       + [Utilice la matemática de fecha para calcular el tiempo entre eventos](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
-
 + Data Insights Agent {#data-insights-agent}
    + [Primeros pasos](data-insights-agent/introduction-to-the-data-insights-agent.md)
    + [Casos de uso](data-insights-agent/data-insights-agent-use-cases.md)
@@ -157,6 +157,6 @@ ht-degree: 79%
    + Datos complejos {#complex-data}
       + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
-   + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
