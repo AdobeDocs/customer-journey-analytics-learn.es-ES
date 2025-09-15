@@ -1,6 +1,6 @@
 ---
 title: Crear subtítulos inteligentes
-description: Aprenda a habilitar subtítulos inteligentes en las visualizaciones para que pueda obtener perspectivas de lenguaje natural creadas automáticamente para usted acerca de sus datos.
+description: Aprenda a habilitar subtítulos inteligentes en sus visualizaciones para poder obtener información en lenguaje natural creada automáticamente para usted sobre sus datos.
 feature: Visualizations
 role: User
 level: Beginner
@@ -12,14 +12,14 @@ exl-id: 0ac3b231-97d3-4937-b15b-0e30b4f9de2a
 source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 20%
+ht-degree: 98%
 
 ---
 
 # Crear subtítulos inteligentes
 
-Aprenda a habilitar subtítulos inteligentes en las visualizaciones para que pueda obtener perspectivas de lenguaje natural creadas automáticamente para usted acerca de sus datos.
+Aprenda a habilitar subtítulos inteligentes en sus visualizaciones para poder obtener información en lenguaje natural creada automáticamente para usted sobre sus datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443141/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=es).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en).
