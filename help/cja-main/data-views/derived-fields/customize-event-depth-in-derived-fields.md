@@ -22,4 +22,4 @@ Obtenga información sobre cómo configurar la profundidad del evento en campos 
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-dataviews/derived-fields).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471041/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471046/?learn=on&captions=spa)

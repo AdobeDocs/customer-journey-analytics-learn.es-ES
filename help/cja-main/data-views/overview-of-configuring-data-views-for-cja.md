@@ -19,7 +19,7 @@ ht-degree: 100%
 
 En Customer Journey Analytics, las vistas de datos son similares a los grupos de informes virtuales en Adobe Analytics; permiten configurar los datos que llegan a CJA para que puedan ser más útiles en los informes y análisis. Este vídeo le ofrece información general sobre la configuración de las vistas de datos para Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/35110/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345540/?quality=12&learn=on&captions=spa)
 
 Consulte vídeos de vistas de datos adicionales para centrarse en funcionalidades específicas que pueden hacer que sus datos sean más útiles.
 

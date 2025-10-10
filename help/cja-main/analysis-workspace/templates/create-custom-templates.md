@@ -22,4 +22,4 @@ Obtenga información sobre cómo crear una plantilla personalizada en Customer J
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/templates/create-templates).
 
->[!VIDEO](https://video.tv.adobe.com/v/3470921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470925/?learn=on&captions=spa)

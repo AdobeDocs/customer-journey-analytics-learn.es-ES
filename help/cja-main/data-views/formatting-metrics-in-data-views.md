@@ -19,4 +19,4 @@ ht-degree: 100%
 
 En este vídeo, aprenderá las opciones para aplicar formato a las métricas en la pantalla [!UICONTROL componente] de la configuración de [!UICONTROL Vista de datos]. En este vídeo también se describen algunas sugerencias que pueden ayudarle a aprovechar al máximo sus [!UICONTROL componentes].
 
->[!VIDEO](https://video.tv.adobe.com/v/332806/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412363/?quality=12&learn=on&captions=spa)

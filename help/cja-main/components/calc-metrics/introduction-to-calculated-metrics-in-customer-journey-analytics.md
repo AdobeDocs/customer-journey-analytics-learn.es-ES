@@ -22,6 +22,6 @@ ht-degree: 100%
 
 En este vídeo, explicaremos los conceptos básicos de la creación de [!UICONTROL Métricas calculadas] en Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35863/?quality=12&learn=on&captions=spa)
 
 Para obtener más información sobre Customer Journey Analytics, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=es).

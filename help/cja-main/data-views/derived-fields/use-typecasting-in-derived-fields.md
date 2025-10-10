@@ -22,4 +22,4 @@ Descubra la Typecasting en campos derivados de Customer Journey Analytics. La me
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-dataviews/derived-fields).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471042/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471057/?learn=on&captions=spa)

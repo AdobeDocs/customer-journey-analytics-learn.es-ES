@@ -20,6 +20,6 @@ ht-degree: 18%
 
 Obtenga información sobre las **tendencias** en Customer Journey Analytics, que proporciona a insight información valiosa sobre el rendimiento de su producto o la participación del usuario a lo largo del tiempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423445/?learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html?lang=es).

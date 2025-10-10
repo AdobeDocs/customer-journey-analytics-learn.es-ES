@@ -19,6 +19,6 @@ ht-degree: 18%
 
 Obtenga información sobre la **cronología** en Customer Journey Analytics, que le ayudará a encontrar patrones de experiencia, contar mejores historias de usuarios y validar la implementación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435770/?learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/guided-analysis/streams/timeline).

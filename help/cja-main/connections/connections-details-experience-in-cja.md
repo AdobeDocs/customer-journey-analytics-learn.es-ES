@@ -20,4 +20,4 @@ ht-degree: 100%
 
 El Administrador de conexiones le permite comprobar el estado de la ingesta de conjuntos de datos de la conexión. Esta interfaz también le informa de cuándo hay datos disponibles para iniciar el análisis en Workspace. Obtenga información sobre cómo identificar discrepancias de datos debido a una configuración incorrecta, administrar las fechas de importación de datos y quitar conjuntos de datos de conexiones.
 
->[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345570/?quality=12&learn=on&captions=spa)

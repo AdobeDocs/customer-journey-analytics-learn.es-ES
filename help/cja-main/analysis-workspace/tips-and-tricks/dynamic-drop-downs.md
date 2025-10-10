@@ -24,4 +24,4 @@ Aprenda a crear segmentos desplegables basados en una dimensión completa. Los e
 >
 > Se cambió el nombre de &quot;[!UICONTROL Filters]&quot; a &quot;[!UICONTROL segments]&quot; en la interfaz de Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446819/?learn=on&captions=spa)

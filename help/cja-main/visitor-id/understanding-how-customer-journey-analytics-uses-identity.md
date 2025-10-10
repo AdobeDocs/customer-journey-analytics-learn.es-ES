@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Este vídeo no pretende profundizar en los aspectos técnicos, sino ofrecer una visión práctica sobre cómo la [!UICONTROL identidad] afecta a los análisis en Customer Journey Analytics de Adobe. Asimismo, incluye una presentación de las [!UICONTROL visualizaciones] multicanal, disponibles gracias a la vinculación de los ID de [!UICONTROL visitante].
 
->[!VIDEO](https://video.tv.adobe.com/v/30750/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36395/?learn=on&quality=12&captions=spa)
 
 Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=es).

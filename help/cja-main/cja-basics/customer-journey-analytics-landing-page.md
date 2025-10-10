@@ -19,6 +19,6 @@ ht-degree: 100%
 
 La página de destino para Customer Journey Analytics incluye una vista predeterminada de sus proyectos y cuadros de resultados móviles, así como una sección de aprendizaje que le ayuda a iniciarse de forma más eficaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/343041/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409305/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=es).

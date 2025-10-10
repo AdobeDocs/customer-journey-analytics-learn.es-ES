@@ -23,4 +23,4 @@ ht-degree: 100%
 
 ¿Cómo se aborda un conjunto de datos que no tiene un ID de persona disponible para configurarlo en una conexión de Customer Journey Analytics? Para ver cómo se hace, mire este vídeo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417726/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422072/?quality=12&learn=on&captions=spa)

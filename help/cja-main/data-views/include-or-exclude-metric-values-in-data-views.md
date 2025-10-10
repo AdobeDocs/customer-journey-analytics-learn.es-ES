@@ -20,4 +20,4 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a crear y configurar nuevas métricas que sean subconjuntos de otras, así como los casos de uso que pueden hacer de esta una potente herramienta de análisis en Vistas de datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/333120/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412946/?quality=12&learn=on&captions=spa)

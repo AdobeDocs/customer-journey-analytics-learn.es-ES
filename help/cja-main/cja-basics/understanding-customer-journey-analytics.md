@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Adobe Customer Journey Analytics (CJA) es un servicio de aplicaciones de Adobe Experience Platform. Incorpora la herramienta de análisis completa conocida como Analysis Workspace en Platform, para permitirle realizar análisis de varios canales en cualquiera de los conjuntos de datos de Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36226/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=es).

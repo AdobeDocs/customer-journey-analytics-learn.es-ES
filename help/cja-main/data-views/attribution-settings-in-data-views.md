@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Cada dimensión debe tener una configuración de asignación (para decidir qué valor recibe crédito por la conversión) y una configuración de caducidad (cuánto tiempo persiste el valor), de modo que el sistema sepa cómo asignar un valor a los valores de dimensión. Del mismo modo, y en conjunto, las métricas también deben tener un modelo de atribución y una ventana retrospectiva establecidos. Este vídeo lo acompaña en la configuración de estos ajustes tan importantes.
 
->[!VIDEO](https://video.tv.adobe.com/v/30185/?quality=12&enable10seconds=on&speedcontrol=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412952/?quality=12&enable10seconds=on&speedcontrol=on&captions=spa)

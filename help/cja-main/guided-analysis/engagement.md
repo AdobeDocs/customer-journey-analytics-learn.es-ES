@@ -20,6 +20,6 @@ ht-degree: 15%
 
 Descubra cómo la **participación** en Customer Journey Analytics proporciona información sobre la frecuencia con la que se usan las características del producto en comparación con la cantidad de personas que las utilizan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447470?captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement).

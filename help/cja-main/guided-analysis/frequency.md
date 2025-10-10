@@ -20,6 +20,6 @@ ht-degree: 20%
 
 Descubra cómo la **frecuencia** de Customer Journey Analytics le permite analizar la participación del usuario en los eventos de su producto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435805/?learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/guided-analysis/trends/frequency).
