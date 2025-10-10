@@ -27,4 +27,4 @@ Obtenga información sobre cómo se usan los [!UICONTROL gráficos de viñetas] 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-Para obtener más información acerca de las visualizaciones de [!UICONTROL bullet graph], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html).
+Para obtener más información acerca de las visualizaciones de [!UICONTROL bullet graph], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=es).

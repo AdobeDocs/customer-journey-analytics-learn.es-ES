@@ -23,4 +23,4 @@ Customer Journey Analytics admite datos de resumen que permiten a los usuarios a
 
 ## Recursos adicionales
 
-* Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/summary-data)
+* Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-dataviews/summary-data)

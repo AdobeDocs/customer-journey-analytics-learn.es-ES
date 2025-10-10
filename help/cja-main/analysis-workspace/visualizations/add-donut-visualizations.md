@@ -27,4 +27,4 @@ Aprenda a agregar y configurar visualizaciones [!UICONTROL donut] a [!DNL Analys
 
 >[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
-Para obtener más información acerca de las visualizaciones de [!UICONTROL donut], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html).
+Para obtener más información acerca de las visualizaciones de [!UICONTROL donut], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=es).
