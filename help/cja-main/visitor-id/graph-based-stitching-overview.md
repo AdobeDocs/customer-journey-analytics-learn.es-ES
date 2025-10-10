@@ -1,6 +1,6 @@
 ---
 title: Información general sobre la vinculación basada en gráficos
-description: La vinculación basada en gráficos aprovecha el poder del gráfico de identidades para alinear identidades entre aplicaciones de Experience Platform. Esta función permite unir más conjuntos de datos en Customer Journey Analytics mediante un identificador de persona común.
+description: La vinculación basada en gráficos aprovecha el poder del gráfico de identidades para alinear identidades en aplicaciones de Experience Platform. Esta función permite unir más conjuntos de datos en Customer Journey Analytics mediante un identificador de persona común.
 feature: Stitching
 role: Admin, Developer
 level: Intermediate
@@ -18,9 +18,9 @@ ht-degree: 4%
 
 # Información general sobre la vinculación basada en gráficos
 
-La vinculación basada en gráficos aprovecha el poder del gráfico de identidades para alinear identidades entre aplicaciones de Experience Platform. Esta función permite unir más conjuntos de datos en Customer Journey Analytics mediante un identificador de persona común.
+La vinculación basada en gráficos aprovecha el poder del gráfico de identidades para alinear identidades en aplicaciones de Experience Platform. Esta función permite unir más conjuntos de datos en Customer Journey Analytics mediante un identificador de persona común.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448719/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
 
 Mediante la vinculación basada en gráficos mediante el gráfico de identidad, obtenga una mejor vista del Recorrido del cliente mediante:
 

@@ -1,6 +1,6 @@
 ---
 title: Participación
-description: Descubra cómo la participación en Customer Journey Analytics proporciona perspectivas sobre la frecuencia con la que se utilizan las funciones del producto frente al número de personas que las utilizan.
+description: Descubra cómo la participación en Customer Journey Analytics proporciona perspectivas sobre la frecuencia con la que se utilizan las funciones del producto en comparación con la cantidad de personas que las utilizan.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 15%
 
 # Participación
 
-Descubra cómo la **participación** en Customer Journey Analytics proporciona perspectivas sobre la frecuencia con la que se utilizan las funciones del producto en comparación con la cantidad de personas que las utilizan.
+Descubra cómo la **participación** en Customer Journey Analytics proporciona información sobre la frecuencia con la que se usan las características del producto en comparación con la cantidad de personas que las utilizan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447470?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement).

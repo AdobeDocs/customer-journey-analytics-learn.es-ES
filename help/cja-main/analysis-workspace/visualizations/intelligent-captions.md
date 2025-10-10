@@ -20,6 +20,6 @@ ht-degree: 98%
 
 Aprenda a habilitar subtítulos inteligentes en sus visualizaciones para poder obtener información en lenguaje natural creada automáticamente para usted sobre sus datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443141/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=es).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en).

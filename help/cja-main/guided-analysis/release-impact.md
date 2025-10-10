@@ -1,5 +1,5 @@
 ---
-title: Impacto de versión
+title: Impacto de la versión
 description: Descubra cómo el impacto de la versión en Customer Journey Analytics muestra una comparación del rendimiento de los indicadores clave antes y después de una fecha determinada.
 feature: Guided Analysis
 role: User
@@ -16,10 +16,10 @@ ht-degree: 19%
 
 ---
 
-# Impacto de versión
+# Impacto de la versión
 
-Descubra cómo **impacto de la versión** en Customer Journey Analytics muestra una comparación del rendimiento de los indicadores clave antes y después de una fecha determinada.
+Descubra cómo **afecta a la versión** en Customer Journey Analytics muestra una comparación del rendimiento de los indicadores clave antes y después de una fecha determinada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423454/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=es).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html).

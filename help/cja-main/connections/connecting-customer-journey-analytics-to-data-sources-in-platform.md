@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Customer Journey Analytics aprovecha los conjuntos de datos introducidos en Adobe Experience Platform. Antes de comenzar el análisis de datos en Workspace, debe crear una conexión. Obtenga información sobre la arquitectura de Customer Journey Analytics, casos de uso, planificación, permisos necesarios y los pasos para crear una conexión.
 
->[!VIDEO](https://video.tv.adobe.com/v/33584/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/30140/?quality=12&learn=on)

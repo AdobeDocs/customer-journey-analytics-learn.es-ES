@@ -20,4 +20,4 @@ ht-degree: 0%
 Explore estrategias de modelado de datos e identidad clave para garantizar implementaciones escalables y eficientes en Adobe Experience Platform.
 
 <!-- 72_S655_3442541_100_best-practices-for-data-modeling-and-identity-in-adobe-experience-platform -->
->[!VIDEO](https://video.tv.adobe.com/v/3459827/?learn=on&enablevpops=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3458310/?learn=on&enablevpops=true)

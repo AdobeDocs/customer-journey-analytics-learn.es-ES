@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Las dimensiones de enlace son una característica interesante de Customer Journey Analytics; le permite tomar una dimensión y conectarla a otra con el fin de refinar la asignación de persistencia. A menudo nos encontramos con situaciones en las que recibimos valores diferentes a lo largo del recorrido de un usuario y tenemos que decidir cómo asignar esas métricas de éxito. Las dimensiones de enlace son una forma de ayudar a abordar algunos escenarios clave.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409291/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/342694/?quality=12&learn=on)

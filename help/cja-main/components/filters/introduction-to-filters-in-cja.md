@@ -18,10 +18,10 @@ ht-degree: 20%
 
 # Información general sobre los segmentos
 
-Los segmentos identifican subconjuntos de visitantes o clientes en función de atributos y eventos, como visitantes de un sitio web o participación del centro de llamadas. Obtenga información acerca de los componentes clave del Generador de segmentos en Customer Journey Analytics. Para obtener más información sobre Customer Journey Analytics, visite la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
+Los segmentos identifican subconjuntos de visitantes o clientes en función de atributos y eventos, como visitantes de un sitio web o participación del centro de llamadas. Obtenga información acerca de los componentes clave del Generador de segmentos en Customer Journey Analytics. Para obtener más información sobre Customer Journey Analytics, visite la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
 
 >[!NOTE]
 >
 > Se cambió el nombre de &quot;[!UICONTROL Filters]&quot; a &quot;[!UICONTROL segments]&quot; en la interfaz de Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/36017/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)

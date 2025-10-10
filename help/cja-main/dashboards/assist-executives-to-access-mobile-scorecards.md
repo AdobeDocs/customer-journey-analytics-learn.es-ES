@@ -1,6 +1,6 @@
 ---
 title: Ayude a los ejecutivos a acceder a los cuadros de resultados móviles
-description: Ayude a los ejecutivos a acceder a los cuadros de resultados móviles creados en Customer Journey Analytics mediante la aplicación móvil de paneles de Analytics.  Los cuadros de resultados móviles proporcionan acceso en cualquier momento a métricas clave de rendimiento, vistas detalladas o desgloses.
+description: Ayude a los ejecutivos a acceder a los cuadros de resultados móviles creados en Customer Journey Analytics mediante la aplicación móvil de paneles de control de Analytics.  Los cuadros de resultados móviles proporcionan acceso en cualquier momento a métricas clave de rendimiento, vistas detalladas o desgloses.
 feature: Analytics Dashboards
 topic: Mobile
 role: User, Admin
@@ -18,8 +18,8 @@ ht-degree: 100%
 
 # Ayude a los ejecutivos a acceder a los cuadros de resultados móviles
 
-Ayude a los ejecutivos a acceder a los cuadros de resultados móviles creados en [!DNL Customer Journey Analytics] usando la aplicación móvil de paneles de [!DNL Analytics].  Los cuadros de resultados móviles proporcionan acceso en cualquier momento a métricas clave de rendimiento, vistas detalladas o desgloses.
+Ayude a los ejecutivos a acceder a los cuadros de resultados móviles creados en [!DNL Customer Journey Analytics] usando la aplicación móvil de paneles de control de [!DNL Analytics].  Los cuadros de resultados móviles proporcionan acceso en cualquier momento a métricas clave de rendimiento, vistas detalladas o desgloses.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444839/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html?lang=es).

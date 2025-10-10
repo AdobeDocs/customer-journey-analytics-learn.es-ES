@@ -25,6 +25,6 @@ Obtenga información sobre cómo se usan los [!UICONTROL gráficos de viñetas] 
 >
 >La interfaz de usuario y las características de [!DNL Analysis Workspace] son similares en [!DNL Adobe Analytics] y [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/41511/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-Para obtener más información acerca de las visualizaciones de [!UICONTROL bullet graph], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=es).
+Para obtener más información acerca de las visualizaciones de [!UICONTROL bullet graph], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html).

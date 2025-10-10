@@ -20,6 +20,6 @@ ht-degree: 100%
 
 La funcionalidad de sesiones de primera vez y de retorno proporciona la capacidad de distinguir entre sesiones de primera vez y sesiones que regresan para los usuarios. Esto se logra mediante una retrospectiva de 13 meses aplicada al informe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416832/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3412321/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=es#new-repeat).

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Aprenda a configurar y utilizar el panel de experimentación, que crea automáticamente algunas visualizaciones en función de los datos del experimento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416820/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3412318/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/experimentation.html?lang=es).

@@ -1,6 +1,6 @@
 ---
-title: Página de aterrizaje de Customer Journey Analytics
-description: La página de aterrizaje para Customer Journey Analytics incluye una vista predeterminada de sus proyectos y cuadros de resultados móviles, así como una sección de aprendizaje que le ayuda a iniciarse de forma más eficaz.
+title: Página de destino de Customer Journey Analytics
+description: La página de destino para Customer Journey Analytics incluye una vista predeterminada de sus proyectos y cuadros de resultados móviles, así como una sección de aprendizaje que le ayuda a iniciarse de forma más eficaz.
 feature: Basics
 role: User
 level: Beginner
@@ -15,10 +15,10 @@ ht-degree: 100%
 
 ---
 
-# Página de aterrizaje de Customer Journey Analytics
+# Página de destino de Customer Journey Analytics
 
-La página de aterrizaje para Customer Journey Analytics incluye una vista predeterminada de sus proyectos y cuadros de resultados móviles, así como una sección de aprendizaje que le ayuda a iniciarse de forma más eficaz.
+La página de destino para Customer Journey Analytics incluye una vista predeterminada de sus proyectos y cuadros de resultados móviles, así como una sección de aprendizaje que le ayuda a iniciarse de forma más eficaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409305/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/343041/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=es).

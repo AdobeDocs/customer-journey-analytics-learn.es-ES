@@ -22,8 +22,8 @@ ht-degree: 9%
 
 Aprenda a ingerir y utilizar datos de clasificaciones de [!DNL Analytics] en [!DNL Customer Journey Analytics]. Una vez que los datos de las clasificaciones estén disponibles en [!DNL Experience Platform], actualice [!UICONTROL conexiones] y [!UICONTROL vistas de datos] para incluir los nuevos campos de clasificación que se usarán en [!DNL Analysis Workspace]. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423688/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3420556/?quality=12&learn=on)
 
 Para obtener más información acerca del conector de origen [!DNL Adobe Analytics] para los datos de [!UICONTROL clasificaciones], visite la [documentación](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html?lang=es).
 
-En este vídeo se hace referencia a la función de campos derivados en Customer Journey Analytics. Para obtener más información acerca de esta característica, vea el [vídeo](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html?lang=es) o visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=es).
+En este vídeo se hace referencia a la función de campos derivados en Customer Journey Analytics. Para obtener más información acerca de esta característica, vea el [vídeo](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html) o visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=es).

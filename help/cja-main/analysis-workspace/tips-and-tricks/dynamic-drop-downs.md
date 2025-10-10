@@ -18,10 +18,10 @@ ht-degree: 8%
 
 # Creación de segmentos desplegables dinámicos en Analysis Workspace
 
-Aprenda a crear segmentos desplegables basados en una dimensión completa. Los elementos de Dimension se actualizan dinámicamente en función del intervalo de fechas utilizado en el panel de informes. Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-components/cja-segments/create-filters).
+Aprenda a crear segmentos desplegables basados en una dimensión completa. Los elementos de Dimension se actualizan dinámicamente en función del intervalo de fechas utilizado en el panel de informes. Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters).
 
 >[!NOTE]
 >
 > Se cambió el nombre de &quot;[!UICONTROL Filters]&quot; a &quot;[!UICONTROL segments]&quot; en la interfaz de Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446819/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)

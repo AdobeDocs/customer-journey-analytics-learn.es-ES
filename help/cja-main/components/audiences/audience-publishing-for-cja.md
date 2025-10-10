@@ -1,6 +1,6 @@
 ---
-title: Publicación de audiencias para Customer Journey Analytics
-description: Aprenda a publicar audiencias de Customer Journey Analytics en el Perfil del cliente en tiempo real de Adobe Experience Platform para la activación de segmentos o para una orquestación de recorrido más personalizada.
+title: Publicación de públicos para Customer Journey Analytics
+description: Aprenda a publicar públicos de Customer Journey Analytics en el Perfil del cliente en tiempo real de Adobe Experience Platform para la activación de segmentos o para una orquestación de recorrido más personalizada.
 feature: Components
 topic: Integrations
 role: User
@@ -16,10 +16,10 @@ ht-degree: 100%
 
 ---
 
-# Publicación de audiencias para Customer Journey Analytics
+# Publicación de públicos para Customer Journey Analytics
 
-Aprenda a publicar audiencias de Customer Journey Analytics en el Perfil del cliente en tiempo real de Adobe Experience Platform para la activación de segmentos o para una orquestación de recorrido más personalizada.
+Aprenda a publicar públicos de Customer Journey Analytics en el Perfil del cliente en tiempo real de Adobe Experience Platform para la activación de segmentos o para una orquestación de recorrido más personalizada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412471/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/346759/?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/audiences/audiences-overview.html?lang=es).

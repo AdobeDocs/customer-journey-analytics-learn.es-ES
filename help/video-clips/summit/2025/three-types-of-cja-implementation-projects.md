@@ -20,4 +20,4 @@ ht-degree: 0%
 Descubra los tres tipos de proyectos de implementación de Customer Journey Analytics: prueba de concepto, casos de uso multicanal provisionales e implementación completa.
 
 <!-- 62_S113_3442460_77_three-types-of-cja-implementation-projects -->
->[!VIDEO](https://video.tv.adobe.com/v/3463022/?learn=on&enablevpops=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3458341/?learn=on&enablevpops=true)

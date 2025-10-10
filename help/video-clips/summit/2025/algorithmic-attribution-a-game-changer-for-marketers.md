@@ -20,4 +20,4 @@ ht-degree: 0%
 Comprenda cómo la atribución algorítmica en CJA asigna crédito entre puntos de contacto, lo que proporciona una vista más precisa del rendimiento de marketing.
 
 <!-- 85_S106_3442453_71_algorithmic-attribution-a-gamechanger-for-marketers -->
->[!VIDEO](https://video.tv.adobe.com/v/3459838/?learn=on&enablevpops=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3458301/?learn=on&enablevpops=true)

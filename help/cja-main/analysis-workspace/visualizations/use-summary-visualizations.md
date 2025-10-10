@@ -25,6 +25,6 @@ Aprenda a usar visualizaciones de [!UICONTROL resumen] en [!DNL Analysis Workspa
 >
 >La interfaz de usuario y las características de [!DNL Analysis Workspace] son similares en [!DNL Adobe Analytics] y [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/3416887/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-Para obtener más información acerca de las visualizaciones de [!UICONTROL summary], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=es).
+Para obtener más información acerca de las visualizaciones de [!UICONTROL summary], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html).

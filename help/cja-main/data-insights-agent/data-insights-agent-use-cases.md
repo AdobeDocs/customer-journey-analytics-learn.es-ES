@@ -8,10 +8,11 @@ doc-type: Feature Video
 duration: 249
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18321
-source-git-commit: beb59cee00d1c5667a90c177acf45370351a5385
+exl-id: 118aed9a-e9ff-42b2-9110-9ef1a5f8c585
+source-git-commit: ba8abb197b3bb2ba3d725c9575cba400bbe1bb76
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 43%
 
 ---
 
@@ -21,4 +22,4 @@ Optimice el análisis mediante consultas en lenguaje natural, visualizaciones en
 
 Para obtener más información, revise la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463911/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3463896/?learn=on&enablevpops)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Explore los dos tipos de vinculación de identidad en CJA (basada en campos y en gráficos) y cómo permiten el análisis omnicanal.
 
 <!-- 62_S113_3442460_74_identity-stitching-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3459997/?learn=on&enablevpops=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3458335/?learn=on&enablevpops=true)

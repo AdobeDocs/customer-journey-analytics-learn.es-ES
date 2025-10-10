@@ -20,4 +20,4 @@ ht-degree: 0%
 Descubra cómo la función de interacción de Workspace ayuda a los usuarios a explorar y dominar Customer Journey Analytics a través de logros, lo que permite crear habilidades y colaborar.
 
 <!-- 72_S102_3442449_228_gamifying-workspace-unlock-achievements-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460201/?learn=on&enablevpops=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3458360/?learn=on&enablevpops=true)

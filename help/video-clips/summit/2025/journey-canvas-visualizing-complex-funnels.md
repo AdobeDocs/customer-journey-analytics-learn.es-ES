@@ -20,4 +20,4 @@ ht-degree: 0%
 Explore el lienzo de Recorrido en CJA, una potente herramienta de visualización para crear canales de varios pasos y analizar los recorridos del usuario.
 
 <!-- 72_S103_3442450_134_journey-canvas-visualizing-complex-funnels -->
->[!VIDEO](https://video.tv.adobe.com/v/3460151/?learn=on&enablevpops=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3458364/?learn=on&enablevpops=true)

@@ -1,6 +1,6 @@
 ---
 title: Tendencias de conversión
-description: Descubra cómo las tendencias de conversión en Customer Journey Analytics rastrean los cambios en las tasas de conversión de los embudos a lo largo del tiempo.
+description: Descubra cómo las tendencias de conversión en Customer Journey Analytics rastrean los cambios en las tasas de conversión de funnel a lo largo del tiempo.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 25%
 
 # Tendencias de conversión
 
-Descubra cómo **las tendencias de conversión** en Customer Journey Analytics rastrean los cambios en las tasas de conversión de embudo a lo largo del tiempo.
+Aprenda cómo las **tendencias de conversión** en Customer Journey Analytics hacen un seguimiento de los cambios en las tasas de conversión de funnel a lo largo del tiempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423492/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=es).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html).
