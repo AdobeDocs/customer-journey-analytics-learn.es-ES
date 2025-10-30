@@ -22,4 +22,4 @@ Descubra cómo el **crecimiento activo** de Customer Journey Analytics proporcio
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html){target="_blank"}.
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html?lang=es){target="_blank"}.

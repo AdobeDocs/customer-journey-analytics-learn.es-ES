@@ -20,6 +20,6 @@ ht-degree: 75%
 
 Utilice paneles de forma libre para explorar, comparar y correlacionar los datos de experiencia del cliente mediante una interfaz flexible de tipo arrastrar y soltar.
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/freeform-panel){target="_blank"}.
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/panels/freeform-panel){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458210/?learn=on)

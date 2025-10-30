@@ -27,4 +27,4 @@ Aprenda a configurar visualizaciones de [!UICONTROL barra completamente apilada]
 
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-Para obtener más información acerca de [!UICONTROL visualizaciones de variables] completamente apiladas, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html){target="_blank"}.
+Para obtener más información acerca de [!UICONTROL visualizaciones de variables] completamente apiladas, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=es){target="_blank"}.
