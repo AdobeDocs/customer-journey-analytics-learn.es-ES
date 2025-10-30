@@ -10,7 +10,7 @@ role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
 exl-id: 2733a815-c030-4fad-81d9-3f38fb1e7378
-source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -25,6 +25,6 @@ Aprenda a utilizar la visualización [!UICONTROL diagrama de dispersión] en [!D
 >
 >La interfaz de usuario y las características de [!DNL Analysis Workspace] son similares en [!DNL Adobe Analytics] y [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/3416859/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
-Para obtener más información acerca de las visualizaciones de [!UICONTROL diagrama de dispersión], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=es).
+Para obtener más información acerca de las visualizaciones de [!UICONTROL diagrama de dispersión], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html){target="_blank"}.

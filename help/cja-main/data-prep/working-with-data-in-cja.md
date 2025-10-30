@@ -11,7 +11,7 @@ kt: 3964
 role: Data Engineer, Data Architect
 level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 En este vídeo, aprenderá cómo se traducen los [!UICONTROL esquemas] de [!UICONTROL conjuntos de datos] en variables en Customer Journey Analytics (CJA), así como la forma en la que CJA gestiona la cardinalidad elevada.
 
->[!VIDEO](https://video.tv.adobe.com/v/36019/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12&learn=on)
 
-Para obtener más información sobre Customer Journey Analytics, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=es).
+Para obtener más información sobre Customer Journey Analytics, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=es){target="_blank"}.

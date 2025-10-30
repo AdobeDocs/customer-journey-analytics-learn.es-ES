@@ -11,7 +11,7 @@ thumbnail: 32549.jpg
 kt: 3965
 last-substantial-update: 2023-03-17T00:00:00Z
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Saque más partido a su análisis al añadir nuevos datos de otros canales a una conexión de Customer Journey Analytics. Además, comprenda los requisitos para fusionar estos nuevos datos, así como los efectos en los análisis y los informes, que se gestionan usando los ajustes de configuración.
 
->[!VIDEO](https://video.tv.adobe.com/v/36465/?learn=on&quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12&learn=on)
 
-Para obtener más información sobre el Análisis en canales múltiples, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=es).
+Para obtener más información sobre el Análisis en canales múltiples, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=es){target="_blank"}.

@@ -12,7 +12,7 @@ topic: Migration
 role: User
 level: Beginner
 exl-id: 52ff7388-6463-47fa-aec9-ab9531cd105f
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
@@ -23,6 +23,6 @@ ht-degree: 100%
 
 En este vídeo, encontrará sugerencias para volver a crear las [!UICONTROL Métricas calculadas] de Adobe Analytics en Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/33880/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12&learn=on)
 
-Para obtener más información sobre Customer Journey Analytics, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=es).
+Para obtener más información sobre Customer Journey Analytics, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=es){target="_blank"}.

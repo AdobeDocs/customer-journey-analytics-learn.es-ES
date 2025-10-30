@@ -8,9 +8,9 @@ duration: 650
 last-substantial-update: 2025-05-13T00:00:00Z
 jira: KT-17556
 exl-id: 2e7c0934-69da-4b85-bf3e-eec294ff1ba0
-source-git-commit: 929fc1cc499262a35ad76d3b4109c2ed175debe0
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 34%
 
 ---
@@ -25,7 +25,7 @@ Para obtener más información, consulte la [documentación](https://experiencel
 
 Content Analytics utiliza la infraestructura de IA y Experience Platform para revelar qué hace que el contenido sea efectivo. Los equipos pueden optimizar mejor la participación, impulsar las conversiones y tomar decisiones más inteligentes y respaldadas por datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457313/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
 
 
 ## Funcionamiento
@@ -41,7 +41,7 @@ Content Analytics utiliza la infraestructura de IA y Experience Platform para re
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics: cómo funciona" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457430/?format=jpeg&nocache=1742338375674&captions=spa" alt="Content Analytics: cómo funciona"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics: cómo funciona"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,7 +134,7 @@ Content Analytics utiliza la infraestructura de IA y Experience Platform para re
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics - Informes" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473040/?format=jpeg&nocache=1742338375674&captions=spa" alt="Content Analytics - Informes"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Informes"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
