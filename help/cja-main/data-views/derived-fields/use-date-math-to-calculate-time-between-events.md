@@ -21,4 +21,4 @@ Matemáticas de fecha maestra en campos derivados de Customer Journey Analytics.
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471043/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471068/?captions=spa&learn=on)

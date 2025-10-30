@@ -24,4 +24,4 @@ Cree [!UICONTROL segmentos rápidos] directamente en sus [!DNL Customer Journey 
 >
 > Se cambió el nombre de &quot;[!UICONTROL Filters]&quot; a &quot;[!UICONTROL segments]&quot; en la interfaz de Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/343743/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411835/?captions=spa&quality=12&learn=on)

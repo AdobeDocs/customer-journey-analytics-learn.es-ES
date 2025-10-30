@@ -20,6 +20,6 @@ ht-degree: 100%
 
 En este vídeo, se muestra cómo utilizar las funciones de preparación de datos para los datos de Analytics, incluidas las funciones de manipulación de datos, como la asignación de variables de Analytics a nuevos campos personalizados y las transformaciones y cálculos. Estas actividades se llevan a cabo en el flujo de trabajo Conexiones de origen para Analytics en Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430250?captions=spa&quality=12&learn=on)
 
 Para obtener más información, consulte la [Documentación del conector de origen de Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=es){target="_blank"} y la [Documentación de funciones de preparación de datos](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html?lang=es){target="_blank"}.

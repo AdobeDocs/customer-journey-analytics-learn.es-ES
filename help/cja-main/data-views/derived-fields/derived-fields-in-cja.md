@@ -20,7 +20,7 @@ ht-degree: 4%
 
 Aprenda a crear campos derivados para crear manipulaciones de datos complejas sobre la marcha a través de un generador de reglas personalizable y, a continuación, haga que la lógica se aplique de forma retroactiva a sus informes. Esto puede ahorrar mucho tiempo a la hora de garantizar que los datos estén en un formato utilizable para la creación de informes, análisis y acciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420258/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450906/?captions=spa&learn=on)
 
 Esta función le ayuda a mejorar la calidad y precisión de los datos de sus proyectos debido a errores o lagunas de datos.
 Algunos casos de uso de ejemplo son:

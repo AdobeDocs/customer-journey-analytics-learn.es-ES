@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Aprenda a publicar públicos de Customer Journey Analytics en el Perfil del cliente en tiempo real de Adobe Experience Platform para la activación de segmentos o para una orquestación de recorrido más personalizada.
 
->[!VIDEO](https://video.tv.adobe.com/v/346759/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412471/?captions=spa&quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/audiences/audiences-overview.html?lang=es){target="_blank"}.

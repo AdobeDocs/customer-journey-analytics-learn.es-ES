@@ -22,4 +22,4 @@ Aprenda a utilizar las plantillas de [!DNL Customer Journey Analytics] para opti
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/templates/use-templates){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470517/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470532/?captions=spa&learn=on)

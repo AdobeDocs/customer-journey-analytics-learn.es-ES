@@ -20,6 +20,6 @@ ht-degree: 25%
 
 Aprenda cómo las **tendencias de conversión** en Customer Journey Analytics hacen un seguimiento de los cambios en las tasas de conversión de funnel a lo largo del tiempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423492/?captions=spa&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=es){target="_blank"}.

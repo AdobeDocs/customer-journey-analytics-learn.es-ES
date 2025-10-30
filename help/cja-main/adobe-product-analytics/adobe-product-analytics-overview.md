@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Adobe Product Analytics permite a los equipos de productos autogestionar los datos y las perspectivas sobre su experiencia de producto mediante flujos de trabajo de análisis guiados, basados en los mismos datos entre canales de Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421621/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423515/?captions=spa&learn=on)
 
 Con Adobe Product Analytics, los equipos pueden:
 

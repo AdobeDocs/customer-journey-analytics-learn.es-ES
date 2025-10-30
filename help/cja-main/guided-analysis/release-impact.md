@@ -20,6 +20,6 @@ ht-degree: 19%
 
 Descubra cómo **afecta a la versión** en Customer Journey Analytics muestra una comparación del rendimiento de los indicadores clave antes y después de una fecha determinada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423454/?captions=spa&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=es){target="_blank"}.

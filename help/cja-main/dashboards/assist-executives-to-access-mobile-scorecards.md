@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Ayude a los ejecutivos a acceder a los cuadros de resultados móviles creados en [!DNL Customer Journey Analytics] usando la aplicación móvil de paneles de control de [!DNL Analytics].  Los cuadros de resultados móviles proporcionan acceso en cualquier momento a métricas clave de rendimiento, vistas detalladas o desgloses.
 
->[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444839/?captions=spa&quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html?lang=es){target="_blank"}.

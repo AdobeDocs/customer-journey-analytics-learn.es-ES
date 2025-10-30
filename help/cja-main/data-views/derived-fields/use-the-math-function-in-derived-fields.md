@@ -20,6 +20,6 @@ ht-degree: 5%
 
 Explore el potencial de utilizar funciones matemáticas para crear campos derivados en Customer Journey Analytics en este tutorial de vídeo. Aprenda a ajustar métricas eliminando componentes no deseados, como impuestos, de los totales y comprenda las ventajas de utilizar campos derivados sobre métricas calculadas, incluidas funciones de vista de datos exclusivas como deduplicación, agrupamiento y atribución. Obtenga la flexibilidad para crear métricas personalizadas que se alineen con sus necesidades de análisis y mejoren sus capacidades de toma de decisiones basadas en datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430617/&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447212?captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.

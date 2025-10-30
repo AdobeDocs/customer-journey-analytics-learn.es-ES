@@ -25,6 +25,6 @@ Aprenda a agregar y configurar la visualización de [!UICONTROL mapa de árbol] 
 >
 >La interfaz de usuario y las características de [!DNL Analysis Workspace] son similares en [!DNL Adobe Analytics] y [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416853/?captions=spa&quality=12&learn=on)
 
 Para obtener más información sobre las visualizaciones de [!UICONTROL mapa de árbol], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=es){target="_blank"}.

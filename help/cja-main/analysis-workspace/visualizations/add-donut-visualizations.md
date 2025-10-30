@@ -25,6 +25,6 @@ Aprenda a agregar y configurar visualizaciones [!UICONTROL donut] a [!DNL Analys
 >
 >La interfaz de usuario y las características de [!DNL Analysis Workspace] son similares en [!DNL Adobe Analytics] y [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416623/?captions=spa&quality=12&learn=on)
 
 Para obtener más información acerca de las visualizaciones de [!UICONTROL donut], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=es){target="_blank"}.

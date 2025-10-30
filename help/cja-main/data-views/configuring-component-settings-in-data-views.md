@@ -19,7 +19,7 @@ ht-degree: 100%
 
 En este vídeo, se describen algunas de las opciones básicas que se deben configurar para cada uno de los [!UICONTROL componentes] (métricas y dimensiones) al configurar una [!UICONTROL Vista de datos] en Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/332788/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412343/?captions=spa&quality=12&learn=on)
 
 ## Recursos adicionales
 

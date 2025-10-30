@@ -24,4 +24,4 @@ Los segmentos identifican subconjuntos de visitantes o clientes en función de a
 >
 > Se cambió el nombre de &quot;[!UICONTROL Filters]&quot; a &quot;[!UICONTROL segments]&quot; en la interfaz de Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36017/?captions=spa&quality=12&learn=on)

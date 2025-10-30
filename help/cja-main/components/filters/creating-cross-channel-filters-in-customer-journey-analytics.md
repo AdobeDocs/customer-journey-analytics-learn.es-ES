@@ -26,4 +26,4 @@ Aprenda a crear [!UICONTROL segmentos] en Adobe Customer Journey Analytics que u
 >
 > Se cambió el nombre de &quot;[!UICONTROL Filters]&quot; a &quot;[!UICONTROL segments]&quot; en la interfaz de Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35887/?captions=spa&quality=12&learn=on)
