@@ -23,4 +23,4 @@ Con las búsquedas de CJA en los datos de búsqueda y perfil, los usuarios puede
 
 Para obtener documentación detallada, visite [Tipos de conjuntos de datos](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=es#dataset-types){target="_blank"} y [Agregue datos de nivel de cuenta como un conjunto de datos de consulta](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=es){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449873/?captions=spa&learn=on)
