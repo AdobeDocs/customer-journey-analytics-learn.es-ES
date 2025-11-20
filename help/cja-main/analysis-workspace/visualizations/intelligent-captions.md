@@ -22,4 +22,4 @@ Aprenda a habilitar subtítulos inteligentes en sus visualizaciones para poder o
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en){target="_blank"}.
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=es){target="_blank"}.
