@@ -33,7 +33,7 @@ ht-degree: 77%
    + [Ver, solucionar problemas y modificar la configuración de conexión](connections/connections-details-experience-in-cja.md)
    + [Añadir nuevos datos a una conexión](connections/add-past-data-to-an-existing-connection-in-cja.md)
    + [Búsquedas de CJA para datos de perfil y búsqueda](connections/cja-lookup-data.md)
-+ Identificación de visitante {#visitor-id}
++ Identificación de visitantes {#visitor-id}
    + [Explicación de cómo utiliza CJA la identidad](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Configurar un ID de persona que falta](visitor-id/configure-missing-person-id.md)
    + [Información general sobre la vinculación](visitor-id/overview-of-stitching.md)
@@ -128,7 +128,7 @@ ht-degree: 77%
       + [Paso de segmentos de Adobe Analytics a Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + Dimensiones {#dimensions}
       + [Profundidad del evento](components/dimensions/event-depth-in-cja.md)
-   + Métricas calculadas  {#calc-metrics}
+   + Métricas calculadas {#calc-metrics}
       + [Introducción a las métricas calculadas en Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
       + [Paso de métricas calculadas de Adobe Analytics a Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
    + Públicos {#audiences}
@@ -160,6 +160,6 @@ ht-degree: 77%
    + Datos complejos {#complex-data}
       + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
-   + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
