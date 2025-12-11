@@ -20,6 +20,6 @@ ht-degree: 69%
 
 Aprenda a utilizar el flujo de trabajo guiado de [!DNL Content Analytics]. Simplifica el proceso de configuración para los expertos en marketing, lo que permite una recopilación de datos, un procesamiento y una creación de informes eficientes dentro de Customer Journey Analytics.
 
-Para obtener más información, revise la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
+Para obtener más información, revise la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458438/?learn=on&enablevpops)
