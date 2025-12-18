@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Este vídeo lo acompaña durante la activación de la vinculación en cualquier conjunto de datos de evento. Además, una vez habilitada la vinculación en un conjunto de datos, le ayudará a mostrar diferentes métricas y dimensiones que puede utilizar para validar que funciona y el valor que aporta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478120/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478123/?captions=spa&learn=on&enablevpops)
