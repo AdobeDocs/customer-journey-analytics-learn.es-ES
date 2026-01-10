@@ -22,4 +22,4 @@ Aprenda a identificar y filtrar el tráfico generado por IA en Adobe Customer Jo
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"} de Content Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478575/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478578/?captions=spa&learn=on&enablevpops)
