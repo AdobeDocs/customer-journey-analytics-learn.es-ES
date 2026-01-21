@@ -20,6 +20,6 @@ ht-degree: 8%
 
 Descubra la potente función [!DNL Data Storytelling] de Adobe Customer Journey Analytics que utiliza IA generativa para transformar sus proyectos de Analysis Workspace en presentaciones profesionales de PowerPoint, con visualizaciones revisadas, perspectivas clave y una narrativa convincente. Esta herramienta que le ahorra tiempo le ayuda a compartir rápidamente las tendencias de recorrido de los clientes, los impulsores de conversión y las recomendaciones procesables con las partes interesadas
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/curate-share/generate-slides){target="_blank"} de Content Analytics.
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/curate-share/generate-slides){target="_blank"} de Content Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479119/?learn=on&enablevpops)
