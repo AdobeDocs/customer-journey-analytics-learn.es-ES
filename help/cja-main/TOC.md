@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 6e704c5eed318c044e3871e3821a35e4552a5b86
-workflow-type: ht
-source-wordcount: '589'
-ht-degree: 100%
+source-git-commit: 4c46adc0d3191f380d75b70234d4756832168b46
+workflow-type: tm+mt
+source-wordcount: '598'
+ht-degree: 98%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 100%
 + [Información general sobre Customer Journey Analytics](overview.md)
 + Conceptos básicos de Customer Journey Analytics {#cja-basics}
    + [¿Qué es Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
+   + [¿Por qué CJA? Revisión estratégica de CJA frente a Adobe Analytics](cja-basics/why-cja-modernize-customer-analytics.md)
    + [Introducción a Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Nuevos términos y conceptos](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Página de destino de Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
@@ -167,5 +168,5 @@ ht-degree: 100%
       + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
    + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
