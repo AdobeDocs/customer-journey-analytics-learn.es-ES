@@ -22,4 +22,4 @@ Descubra cómo Adobe Customer Journey Analytics (CJA), basado en Adobe Experienc
 
 Para obtener más información, revisa [consideraciones clave antes de migrar a CJA](https://experienceleague.adobe.com/es/perspectives/cja-readiness-three-key-considerations-before-migrating-to-cja#){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479329/?captions=spa&learn=on&enablevpops)
