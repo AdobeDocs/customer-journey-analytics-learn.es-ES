@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 4c46adc0d3191f380d75b70234d4756832168b46
-workflow-type: ht
-source-wordcount: '598'
-ht-degree: 100%
+source-git-commit: 4477043c45cb75706e77168f1e7744d6b3f4d2a2
+workflow-type: tm+mt
+source-wordcount: '604'
+ht-degree: 99%
 
 ---
 
@@ -93,6 +93,7 @@ ht-degree: 100%
       + [Añadir visualizaciones de barra](analysis-workspace/visualizations/add-bar-visualizations.md)
       + [Añadir visualizaciones de gráficos de viñetas](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [Añadir visualizaciones de anillo](analysis-workspace/visualizations/add-donut-visualizations.md)
+      + [Varias columnas de dimensión en tablas de forma libre](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
       + [Añadir visualizaciones de líneas](analysis-workspace/visualizations/line-visualization.md)
       + [Configurar y usar la visualización de mapas](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
       + [Usar visualizaciones de resumen](analysis-workspace/visualizations/use-summary-visualizations.md)
@@ -168,5 +169,5 @@ ht-degree: 100%
       + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
    + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
