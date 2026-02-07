@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Aprenda a agregar visualizaciones de [!UICONTROL área] y [!UICONTROL área apilada] a [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]. Estas visualizaciones son perfectas para usar cuando hay varias métricas para las que desea visualizar el área en función de la intersección.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479637/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479643/?captions=spa&quality=12&learn=on)
 
 Para obtener más información acerca de las visualizaciones de [!UICONTROL área], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html?lang=es){target="_blank"}.
