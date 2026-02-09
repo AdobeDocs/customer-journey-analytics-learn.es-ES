@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 4477043c45cb75706e77168f1e7744d6b3f4d2a2
+source-git-commit: 0e2ff3688878b5d2e8f3373350608c040333225f
 workflow-type: tm+mt
 source-wordcount: '604'
-ht-degree: 99%
+ht-degree: 98%
 
 ---
 
@@ -100,7 +100,7 @@ ht-degree: 99%
       + [Añadir visualizaciones de texto](analysis-workspace/visualizations/add-text-visualizations.md)
       + [Usar la visualización del diagrama de dispersión](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [Acerca de la visualización del mapa de árbol](analysis-workspace/visualizations/add-treemap-visualizations.md)
-      + [Crear visualizaciones totalmente apiladas](analysis-workspace/visualizations/create-stacked-visualizations.md)
+      + [Creación de visualizaciones apiladas al 100 %](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [Añadir previsión a la visualización](analysis-workspace/visualizations/forecasting.md)
    + Anotaciones {#annotations}
       + [Crear una anotación](analysis-workspace/annotations/create-an-annotation.md)
@@ -169,5 +169,5 @@ ht-degree: 99%
       + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
    + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
