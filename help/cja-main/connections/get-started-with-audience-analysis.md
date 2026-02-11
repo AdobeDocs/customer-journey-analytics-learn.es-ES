@@ -20,6 +20,6 @@ ht-degree: 7%
 
 Descubra cómo el Análisis de audiencia permite a los especialistas en marketing ingerir segmentos de audiencia de Experience Platform y analizar el comportamiento real de los clientes en todos los canales para mejorar la optimización de la campaña. Conozca los sencillos pasos de configuración para habilitar los datos de pertenencia a audiencias, explore las plantillas creadas previamente y descubra perspectivas procesables que impulsan la personalización, las conversiones y el retorno de la inversión.
 
-Para obtener más información, revise la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}.
+Para obtener más información, revise la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479804/?learn=on&enablevpops)
