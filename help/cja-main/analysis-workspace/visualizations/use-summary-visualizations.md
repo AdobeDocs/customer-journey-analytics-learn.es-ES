@@ -20,4 +20,4 @@ Aprenda a agregar y configurar visualizaciones de [!UICONTROL resumen] en [!DNL 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479879/?quality=12&learn=on)
 
-Para obtener más información acerca de las visualizaciones de [!UICONTROL summary], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html){target="_blank"}.
+Para obtener más información acerca de las visualizaciones de [!UICONTROL summary], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=es){target="_blank"}.
