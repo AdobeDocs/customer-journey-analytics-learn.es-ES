@@ -22,4 +22,4 @@ Descubra cómo el Análisis de audiencia permite a los especialistas en marketin
 
 Para obtener más información, revise la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479804/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479807/?captions=spa&learn=on&enablevpops)

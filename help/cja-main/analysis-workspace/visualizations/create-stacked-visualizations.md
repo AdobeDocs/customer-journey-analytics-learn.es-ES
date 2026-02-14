@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Obtenga información sobre cómo configurar visualizaciones completamente apiladas mediante porcentajes en lugar de valores sin procesar en proyectos de Analysis Workspace en Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479696/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479700/?captions=spa&quality=12&learn=on)
 
 Para obtener más información acerca de [!UICONTROL visualizaciones de variables] completamente apiladas, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=es){target="_blank"}.
