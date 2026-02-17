@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 0572e7c2b67e3b17617a85d04a339c6970744de0
+source-git-commit: 0985d4e9f64d79575ebde79e97eadbe89145ce38
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '611'
 ht-degree: 97%
 
 ---
@@ -133,6 +133,7 @@ ht-degree: 97%
       + [Usar segmentos como dimensiones](components/filters/use-filters-as-dimensions.md)
       + [Crear públicos a partir de segmentos](components/filters/create-audiences-from-segments.md)
       + [Paso de segmentos de Adobe Analytics a Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+   + [Informes en tiempo real](components/real-time-reporting.md)
    + Dimensiones {#dimensions}
       + [Profundidad del evento](components/dimensions/event-depth-in-cja.md)
    + Métricas calculadas {#calc-metrics}
@@ -170,5 +171,5 @@ ht-degree: 97%
       + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
    + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [Escenario de análisis del recorrido de desviación de llamadas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
