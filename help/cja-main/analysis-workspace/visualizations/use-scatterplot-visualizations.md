@@ -20,4 +20,4 @@ Aprenda a utilizar la visualización [!UICONTROL scatter] en [!DNL Analysis Work
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
 
-Para obtener más información sobre las visualizaciones de [!UICONTROL dispersión], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html){target="_blank"}.
+Para obtener más información sobre las visualizaciones de [!UICONTROL dispersión], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=es){target="_blank"}.
