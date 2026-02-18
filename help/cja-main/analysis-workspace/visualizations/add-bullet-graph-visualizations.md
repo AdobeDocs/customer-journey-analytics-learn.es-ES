@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Obtenga información sobre cómo se usan los [!UICONTROL gráficos de viñetas] y cómo agregarlos a [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]. Este gráfico muestra cómo se compara un valor de interés con los objetivos o se mide con ellos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479961/?captions=spa&quality=12&learn=on)
 
 Para obtener más información acerca de las visualizaciones de [!UICONTROL bullet graph], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=es){target="_blank"}.
