@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Administración y administración de exportaciones de tabla completa
 
-Obtenga información sobre cómo administrar las exportaciones de tabla completa en Customer Journey Analytics.  Estas funciones permiten a los administradores de CJA optimizar la supervisión, reducir las comprobaciones manuales, mejorar la automatización y garantizar la entrega fiable de datos a los destinos en la nube. Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/export/export-cloud){target="_blank"}.
+Obtenga información sobre cómo administrar las exportaciones de tabla completa en Customer Journey Analytics.  Estas funciones permiten a los administradores de CJA optimizar la supervisión, reducir las comprobaciones manuales, mejorar la automatización y garantizar la entrega fiable de datos a los destinos en la nube. Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/export/export-cloud){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480080/?learn=on)
