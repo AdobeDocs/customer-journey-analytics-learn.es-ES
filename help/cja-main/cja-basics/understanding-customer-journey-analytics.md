@@ -22,4 +22,4 @@ Adobe Customer Journey Analytics (CJA) es la solución de análisis de nueva gen
 
 Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-landing){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36226/?captions=spa&quality=12&learn=on)
