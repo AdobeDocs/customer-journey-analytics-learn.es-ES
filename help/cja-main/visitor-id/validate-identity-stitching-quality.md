@@ -21,6 +21,6 @@ Obtenga información sobre la función de vista previa de conjuntos de datos en 
 
 Evalúe la idoneidad de los conjuntos de datos para la creación de informes fiables entre dispositivos y canales antes de la ingesta, lo que reduce drásticamente el tiempo de respuesta al valor y elimina el riesgo de las decisiones de estrategia de identidad con perspectivas en tiempo real.
 
-Para obtener más información, revise la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/validate){target="_blank"}.
+Para obtener más información, revise la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/stitching/validate){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
