@@ -23,4 +23,4 @@ Evalúe la idoneidad de los conjuntos de datos para la creación de informes fia
 
 Para obtener más información, revise la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/stitching/validate){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481895/?captions=spa&learn=on&enablevpops)
