@@ -24,4 +24,4 @@ Descubra cómo se ha diseñado Adobe Customer Journey Analytics en Adobe Experie
 
 Para obtener más información acerca de Customer Journey Analytics, visite la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-landing){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330412/?captions=spa&learn=on&quality=12)
