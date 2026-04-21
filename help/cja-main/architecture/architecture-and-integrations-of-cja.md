@@ -1,28 +1,27 @@
 ---
 title: Arquitectura e integraciones de Customer Journey Analytics
-description: Obtenga una descripción general de la arquitectura de Adobe Customer Journey Analytics, incluida su conexión e integración con Adobe Experience Platform.
+description: Descubra cómo se ha diseñado Adobe Customer Journey Analytics en Adobe Experience Platform para potenciar el recorrido y el análisis en canales múltiples.
 feature: Workspace Basics
-topics: null
-activity: understand
-doc-type: technical video
 team: Technical Marketing
 thumbnail: 32483.jpg
 kt: 4449
 topic: Architecture
 role: Developer
 level: Intermediate
+duration: 360
+last-substantial-update: 2026-04-20T00:00:00Z
 exl-id: 441e632f-b8d0-428a-9db6-c048bf173443
-source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
+source-git-commit: e0ca48dbccbe942236c9d50b9ebce5fe64a093d7
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 100%
+source-wordcount: '104'
+ht-degree: 25%
 
 ---
 
 # Arquitectura e integraciones de Customer Journey Analytics
 
-En este vídeo encontrará una descripción general de la arquitectura de Customer Journey Analytics, incluida su conexión con Adobe Experience Platform y su integración con ella.
+Descubra cómo se ha diseñado Adobe Customer Journey Analytics en Adobe Experience Platform para potenciar el recorrido y el análisis en canales múltiples. En este vídeo se explican conceptos clave de CJA, como conexiones, vistas de datos y vinculación de datos, además de cómo CJA se integra con las herramientas de Real-Time CDP, Journey Optimizer y BI para obtener perspectivas integrales del recorrido del cliente.
+
+Para obtener más información acerca de Customer Journey Analytics, visite la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-landing){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330412/?captions=spa&learn=on&quality=12)
-
-Para obtener más información acerca de Customer Journey Analytics, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=es){target="_blank"}.
