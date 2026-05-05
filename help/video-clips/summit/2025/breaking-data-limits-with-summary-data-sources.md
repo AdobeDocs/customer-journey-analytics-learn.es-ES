@@ -7,7 +7,7 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: b817cb37-5a7d-4529-a54e-ce3ab979b3ff
-source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
+source-git-commit: c6c3de3847a8017c833d52d82fa92bd83f27b1ed
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -19,4 +19,4 @@ ht-degree: 0%
 Aprenda a utilizar las fuentes de datos de resumen en Customer Journey Analytics para informar sobre los costes de marketing, calcular el retorno de la inversión en publicidad y realizar un seguimiento de los objetivos corporativos.
 
 <!-- 72_S103_3442450_161_breaking-data-limits-with-summary-data-sources -->
->[!VIDEO](https://video.tv.adobe.com/v/3460080/?captions=spa&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458347/?learn=on&enablevpops=true)
