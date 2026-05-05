@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 3324740cfa93ad26145ee16052e5bf3694720678
+source-git-commit: 7b3a767ec4acd2b1e12de3acc11247645c9c023f
 workflow-type: tm+mt
-source-wordcount: '676'
-ht-degree: 87%
+source-wordcount: '692'
+ht-degree: 85%
 
 ---
 
@@ -24,6 +24,9 @@ ht-degree: 87%
    + [Introducción a Customer Journey Analytics B2B Edition](b2b/cja-b2b-overview.md)
    + [CJA B2B edition: Más allá de las primeras preguntas](b2b/cja-b2b-beyond-the-first-questions.md)
    + [Integrar CJA con Marketo para perspectivas B2B](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
++ Servidor MCP remoto {#remote-mcp-server}
+   + [Información general sobre el servidor MCP remoto para CJA](remote-mcp-server/remote-mcp-server-for-cja-overview.md)
+   + [Servidor MCP remoto para CJA en acción](remote-mcp-server/remote-mcp-server-for-cja-in-action.md)
 + Arquitectura {#architecture}
    + [Arquitectura e integraciones](architecture/architecture-and-integrations-of-cja.md)
 + Preparación y planificación de datos {#data-prep}
@@ -174,5 +177,5 @@ ht-degree: 87%
       + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
    + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [Escenario de análisis de recorrido de desviación de llamadas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
