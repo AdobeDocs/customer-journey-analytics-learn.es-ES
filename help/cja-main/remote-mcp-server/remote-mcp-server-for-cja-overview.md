@@ -22,4 +22,4 @@ Aprenda a conectar herramientas de IA como [!DNL Claude], [!DNL ChatGPT] o [!DNL
 
 Para obtener más información, consulte la [documentación](https://developer.adobe.com/analytics-mcp/docs/cja/){target="_blank"} de Content Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486313/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486317/?captions=spa&learn=on&enablevpops)
