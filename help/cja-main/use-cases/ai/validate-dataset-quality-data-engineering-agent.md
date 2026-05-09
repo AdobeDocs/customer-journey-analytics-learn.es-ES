@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Aprenda a utilizar la aptitud de validación de datos en Data Engineering Agent para crear perfiles y validar rápidamente los conjuntos de datos de Adobe Customer Journey Analytics. Verá cómo detectar valores no válidos, comprender los patrones de nivel de campo y aprovechar las perspectivas impulsadas por IA para mejorar la calidad de los datos antes de crear informes y recorridos en Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486277/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486280/?captions=spa&learn=on&enablevpops)
