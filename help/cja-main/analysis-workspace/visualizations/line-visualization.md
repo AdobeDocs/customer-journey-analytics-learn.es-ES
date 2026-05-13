@@ -29,4 +29,4 @@ ht-degree: 53%
 
 Descubra cómo las visualizaciones de líneas pueden ayudarle a comprender mejor las métricas a lo largo del tiempo. Personalice los ejes X/Y, muestre las etiquetas mín./máx. y añada líneas de tendencia para mejorar sus perspectivas de datos con Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478979/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478982/?captions=spa&learn=on&enablevpops)

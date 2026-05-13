@@ -29,6 +29,6 @@ ht-degree: 90%
 
 Aprenda a utilizar las matrices de objetos de los conjuntos de datos de perfil y búsqueda en CJA para enriquecer el análisis B2B y B2C, desde Conexiones, hasta Vistas de datos y Espacio de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445263/?captions=spa&learn=on)
 
 Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=es){target="_blank"}.

@@ -41,4 +41,4 @@ Aprenda a convertir sus conocimientos actuales de Adobe Analytics a Customer Jou
 
 Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36020/?captions=spa&quality=12&learn=on)

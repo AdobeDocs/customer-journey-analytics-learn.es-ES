@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Dado que muchas personas interactúan con el contenido a través de varios canales y dispositivos, es importante conectar estos eventos no autenticados a los autenticados. Esto permite un enfoque más integral de la creación de informes y, en última instancia, de la activación. Este vídeo proporciona información general rápida del proceso de vinculación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426814/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452550/?captions=spa&learn=on)

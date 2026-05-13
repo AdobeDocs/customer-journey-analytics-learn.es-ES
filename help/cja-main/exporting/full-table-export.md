@@ -32,6 +32,6 @@ ht-degree: 100%
 
 Obtenga información sobre la configuración básica de una entrega de tabla desde Customer Journey Analytics tanto a la zona de aterrizaje de datos de AEP como a Snowflake. Para obtener una documentación más detallada, visite [Exportar informes de Customer Journey Analytics a la nube](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=es){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450975/?captions=spa&learn=on)
 
 Con la “exportación de tabla completa”, los usuarios pueden enviar de forma segura tablas concatenadas que contengan todas las filas de un informe a su destino de nube de forma puntual o programada.  Además, el nuevo administrador de componentes de exportaciones facilita la administración de todas las entregas.

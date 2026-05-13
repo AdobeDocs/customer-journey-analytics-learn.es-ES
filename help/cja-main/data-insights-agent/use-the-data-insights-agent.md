@@ -37,4 +37,4 @@ Analice los datos mediante las indicaciones en lenguaje natural, generando tabla
 
 Para obtener más información, revise la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463897/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463922/?captions=spa&learn=on&enablevpops)

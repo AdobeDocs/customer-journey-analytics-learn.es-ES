@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Durante la configuración de Vistas de datos en Customer Journey Analytics, puede elegir si desea mostrar la opción Sin valor en los informes y cómo hacerlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/333113/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412940/?captions=spa&quality=12&learn=on)

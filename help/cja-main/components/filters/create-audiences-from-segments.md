@@ -41,4 +41,4 @@ Obtenga información sobre cómo crear y publicar públicos de Customer Journey 
 
 Para obtener más información, revise la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471276/?captions=spa&learn=on)

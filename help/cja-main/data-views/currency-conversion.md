@@ -33,4 +33,4 @@ ht-degree: 16%
 
 Realice la conversión de divisas en Customer recorrido Analytics mediante una configuración de en Vistas de datos. Utilice esta funcionalidad para crear varias métricas que se mostrarán en distintas monedas. Para obtener documentación detallada, visite [Configuración de componentes de formato](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=es#currency){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424816/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447527/?captions=spa&learn=on)

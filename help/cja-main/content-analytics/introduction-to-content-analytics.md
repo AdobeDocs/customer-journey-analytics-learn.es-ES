@@ -44,7 +44,7 @@ Para obtener más información, consulte la [documentación](https://experiencel
 
 Content Analytics utiliza la IA y la infraestructura de Experience Platform para identificar lo que hace que el contenido sea efectivo. Los equipos pueden optimizar mejor la participación, impulsar las conversiones y tomar decisiones más inteligentes y respaldadas por datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457313/?captions=spa&learn=on&enablevpops)
 
 
 ## Funcionamiento
@@ -61,7 +61,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics: Funcionamiento" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics: Funcionamiento"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457430/?captions=spa&format=jpeg&nocache=1742338375674" alt="Content Analytics: Funcionamiento"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +156,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics: Creación de informes" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics: Creación de informes"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473040/?captions=spa&format=jpeg&nocache=1742338375674" alt="Content Analytics: Creación de informes"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

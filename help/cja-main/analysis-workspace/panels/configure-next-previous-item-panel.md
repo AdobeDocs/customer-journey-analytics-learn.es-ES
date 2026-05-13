@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Aprenda a generar tablas y visualizaciones para identificar el elemento siguiente o anterior para un valor de dimensión específico.
 
->[!VIDEO](https://video.tv.adobe.com/v/344430/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411115/?captions=spa&quality=12&learn=on)

@@ -29,6 +29,6 @@ ht-degree: 24%
 
 Aprenda a agregar y configurar visualizaciones [!UICONTROL donut] a [!DNL Analysis Workspace] proyectos en [!DNL Customer Journey Analytics]. Esta visualización es ideal para usar cuando se comparan porcentajes de un total para unos pocos elementos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479878/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479882/?captions=spa&quality=12&learn=on)
 
 Para obtener más información acerca de las visualizaciones de [!UICONTROL donut], visite la [documentación](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=es){target="_blank"}.
