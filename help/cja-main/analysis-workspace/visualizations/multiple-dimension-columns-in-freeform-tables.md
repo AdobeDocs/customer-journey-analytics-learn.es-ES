@@ -25,6 +25,6 @@ ht-degree: 19%
 
 # Varias columnas de dimensión en tablas de forma libre
 
-Aumente aún más la potencia de las tablas de forma libre con la función Columnas de múltiples dimensiones de CJA. Además de los desgloses de dimensión estándar, puede analizar los datos de dimensión en paralelo para crear pares relacionales que representen y comprendan mejor los datos. La capacidad avanzada de clasificación también proporciona más flexibilidad para manipular las tablas y mostrar los datos tal como desee. Para obtener más información, visite la [documentación.](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/freeform-table-multidimensions){target="_blank"}
+Aumente aún más la potencia de las tablas de forma libre con la función Columnas de múltiples dimensiones de CJA. Además de los desgloses de dimensión estándar, puede analizar los datos de dimensión en paralelo para crear pares relacionales que representen y comprendan mejor los datos. La capacidad avanzada de clasificación también proporciona más flexibilidad para manipular las tablas y mostrar los datos tal como desee. Para obtener más información, visite la [documentación.](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/freeform-table-multidimensions){target="_blank"}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479514/?learn=on&enablevpops)

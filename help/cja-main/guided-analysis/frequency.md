@@ -29,4 +29,4 @@ Descubra cómo la **frecuencia** de Customer Journey Analytics le permite analiz
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/trends/frequency){target="_blank"}.
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/guided-analysis/trends/frequency){target="_blank"}.
