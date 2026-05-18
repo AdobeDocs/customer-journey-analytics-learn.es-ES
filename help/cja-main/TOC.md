@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 7b3a767ec4acd2b1e12de3acc11247645c9c023f
+source-git-commit: 19f938ab38373fe13067802478d11a0c92e10f45
 workflow-type: tm+mt
-source-wordcount: '692'
-ht-degree: 85%
+source-wordcount: '697'
+ht-degree: 84%
 
 ---
 
@@ -73,6 +73,7 @@ ht-degree: 85%
    + [Introducción](data-insights-agent/introduction-to-the-data-insights-agent.md)
    + [Casos de uso](data-insights-agent/data-insights-agent-use-cases.md)
    + [Usar Data Insights Agent](data-insights-agent/use-the-data-insights-agent.md)
+   + [Integración con Microsoft 365 Copilot](data-insights-agent/data-insights-with-marketing-agent-365copilot.md)
 + Analysis Workspace {#analysis-workspace}
    + Proyectos de Workspace {#workspace-projects}
       + [Información general de Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
@@ -177,5 +178,5 @@ ht-degree: 85%
       + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
    + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [Escenario de análisis de recorrido de desviación de llamadas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
