@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 19f938ab38373fe13067802478d11a0c92e10f45
+source-git-commit: 1ae23458447742f1e5d57b6e719f3ccb5c106084
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '701'
 ht-degree: 84%
 
 ---
@@ -92,6 +92,7 @@ ht-degree: 84%
       + [Uso de plantillas](analysis-workspace/templates/use-templates.md)
       + [Creación de plantillas personalizadas](analysis-workspace/templates/create-custom-templates.md)
    + Visualizaciones {#visualizations}
+      + [Introducción de datos en visualizaciones](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Creación de visualizaciones en canales múltiples](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [Atribución en canales múltiples](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
       + [Crear subtítulos inteligentes](analysis-workspace/visualizations/intelligent-captions.md)
@@ -178,5 +179,5 @@ ht-degree: 84%
       + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
    + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [Escenario de análisis de recorrido de desviación de llamadas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
