@@ -26,4 +26,4 @@ ht-degree: 8%
 
 Al agregar o crear una visualización a partir de un valor de dimensión, puede seleccionar diferentes valores de dimensión y cambiar el gráfico dinámicamente o bloquear la visualización para permanecer en una dimensión o ubicación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492124/?captions=spa&learn=on&enablevpops)
