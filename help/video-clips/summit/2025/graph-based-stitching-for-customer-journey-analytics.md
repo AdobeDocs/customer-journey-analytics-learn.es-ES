@@ -25,5 +25,5 @@ ht-degree: 0%
 Descubra cómo la vinculación basada en gráficos permite la integración perfecta de varios conjuntos de datos, creando una vista de cliente unificada para perspectivas procesables.
 
 <!-- 62_S112_3442459_199_graphbased-stitching-for-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458317/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460216/?captions=spa&learn=on&enablevpops=true)
 
