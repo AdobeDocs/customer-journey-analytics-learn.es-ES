@@ -3,16 +3,17 @@ user-guide-title: Clips de vídeo de Customer Journey Analytics
 breadcrumb-title: Clips de vídeo de Customer Journey Analytics
 user-guide-description: Clips de vídeo de Customer Recorrido Analytics
 auto-video-transcripts: true
-source-git-commit: 101a5e07b246360189134119e188450d701cf12f
+source-git-commit: 7169246b493cc08c4f29471e97137ab04cbf7308
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 1%
+source-wordcount: '70'
+ht-degree: 2%
 
 ---
 
 
 # clips de vídeo de Customer Journey Analytics {#video-clips}
 
++ [Información general](summit/2025/video-clip-overview.md)
 + Adobe Summit {#summit}
    + 2025 {#2025}
       + {hide-from-toc}[Vídeo corto](./summit/2025/algorithmic-attribution-a-game-changer-for-marketers.md)
