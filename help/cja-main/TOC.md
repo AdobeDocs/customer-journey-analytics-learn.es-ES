@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 62d84290643e0273f4937a68b151b2e6a098ab41
+source-git-commit: 8ce6cd4a7cbb1a3005e105f7490745c22eadd1f2
 workflow-type: tm+mt
-source-wordcount: '705'
-ht-degree: 84%
+source-wordcount: '710'
+ht-degree: 83%
 
 ---
 
@@ -93,6 +93,7 @@ ht-degree: 84%
       + [Creación de plantillas personalizadas](analysis-workspace/templates/create-custom-templates.md)
    + Visualizaciones {#visualizations}
       + [Introducción de datos en visualizaciones](analysis-workspace/visualizations/getting-data-into-visualizations.md)
+      + [Uso de desplegables de componentes en Workspace](analysis-workspace/visualizations/component-dropdowns-in-analysis-workspace.md)
       + [Creación de visualizaciones en canales múltiples](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [Atribución en canales múltiples](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
       + [Vinculación en directo de Dimension y gráficos](analysis-workspace/visualizations/dimension-graph-live-linking.md)
