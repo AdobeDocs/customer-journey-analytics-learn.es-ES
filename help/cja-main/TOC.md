@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 8ce6cd4a7cbb1a3005e105f7490745c22eadd1f2
+source-git-commit: aefec8ff3b126154171f873cc6d386f36b8c1173
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '713'
 ht-degree: 83%
 
 ---
@@ -110,6 +110,7 @@ ht-degree: 83%
       + [Añadir visualizaciones de dispersión](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [Adición de visualizaciones de mapas de árbol](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [Creación de visualizaciones apiladas al 100 %](analysis-workspace/visualizations/create-stacked-visualizations.md)
+      + [Personalizar leyendas de visualización](analysis-workspace/visualizations/cja-customize-visualization-legends.md)
       + [Añadir previsión a la visualización](analysis-workspace/visualizations/forecasting.md)
    + Anotaciones {#annotations}
       + [Crear una anotación](analysis-workspace/annotations/create-an-annotation.md)
@@ -181,5 +182,5 @@ ht-degree: 83%
       + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
    + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [Escenario de análisis de recorrido de desviación de llamadas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
