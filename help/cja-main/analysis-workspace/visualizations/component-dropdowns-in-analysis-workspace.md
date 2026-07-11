@@ -20,4 +20,4 @@ ht-degree: 46%
 
 Utilice los desplegables de componentes para elegir entre una lista de componentes compatibles y crear sus visualizaciones. También puede crear nuevos componentes directamente desde la lista desplegable si no encuentra lo que necesita. Estos espacios también funcionan como zonas de colocación, en caso de que tenga un caso de uso más avanzado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3493204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3493207/?captions=spa&learn=on&enablevpops)
