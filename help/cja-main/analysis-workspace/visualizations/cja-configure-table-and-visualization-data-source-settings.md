@@ -24,5 +24,5 @@ ht-degree: 78%
 
 En este vídeo, vea cómo se unen las tablas y las visualizaciones a través de la configuración y aprenda a configurarlas para diferentes casos de uso de análisis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495948/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495951/?captions=spa&learn=on&enablevpops)
 
