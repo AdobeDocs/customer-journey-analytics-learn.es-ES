@@ -12,7 +12,7 @@ feature_v2:
   - id: c73c4213-d623-4126-81f4-80b42e5e2656
 subfeature_v2:
   - id: ddf59f64-0e46-4986-a525-056acc143c70
-source-git-commit: f58a7f83835ca1c821d873d2d06e1cb126af52bd
+source-git-commit: 675cda4b7afb97975e25732e3e9c18d5150af565
 workflow-type: tm+mt
 source-wordcount: 64
 ht-degree: 78%
@@ -25,3 +25,4 @@ ht-degree: 78%
 En este vídeo, vea cómo se unen las tablas y las visualizaciones a través de la configuración y aprenda a configurarlas para diferentes casos de uso de análisis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3495951/?captions=spa&learn=on&enablevpops)
+
