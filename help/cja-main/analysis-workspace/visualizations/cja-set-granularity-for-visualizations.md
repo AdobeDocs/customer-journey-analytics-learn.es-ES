@@ -22,4 +22,4 @@ Ajuste fácilmente cómo se muestran los datos con el selector de granularidad e
 
 El siguiente vídeo incrustado muestra los pasos para utilizar esta función de forma eficaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495991/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495994/?captions=spa&learn=on&enablevpops)
