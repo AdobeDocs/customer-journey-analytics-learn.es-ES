@@ -20,4 +20,4 @@ ht-degree: 0%
 
 En Configuración de visualización, puede elegir añadir una línea de tendencia a la serie de líneas, lo que puede ayudar a mostrar un patrón más claro en los datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496122/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496134/?captions=spa&learn=on&enablevpops)
