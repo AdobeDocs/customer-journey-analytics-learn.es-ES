@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: d3821dc564d27928dc86587fcb2dd21b27b4ae1f
+source-git-commit: b6de0132276592b35e0034fa34c2870fb871645c
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '749'
 ht-degree: 81%
 
 ---
@@ -91,6 +91,8 @@ ht-degree: 81%
   + Plantillas {#templates}
     + [Uso de plantillas](analysis-workspace/templates/use-templates.md)
     + [Creación de plantillas personalizadas](analysis-workspace/templates/create-custom-templates.md)
+  + Tablas de forma libre {#freeform-tables}
+    + [Uso de clasificaciones en línea](analysis-workspace/freeform-tables/in-line-classifications-for-cja.md)
   + Visualizaciones {#visualizations}
     + [Introducción de datos en visualizaciones](analysis-workspace/visualizations/getting-data-into-visualizations.md)
     + [Uso de desplegables de componentes en Workspace](analysis-workspace/visualizations/component-dropdowns-in-analysis-workspace.md)
@@ -110,6 +112,7 @@ ht-degree: 81%
     + [Adición y configuración de la visualización de mapas](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
     + [Agregar visualizaciones de resumen](analysis-workspace/visualizations/use-summary-visualizations.md)
     + [Añadir visualizaciones de texto](analysis-workspace/visualizations/add-text-visualizations.md)
+    + [Vínculo dentro o fuera del proyecto](analysis-workspace/visualizations/cja-link-inside-or-outside-of-your-project.md)
     + [Añadir visualizaciones de dispersión](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
     + [Adición de visualizaciones de mapas de árbol](analysis-workspace/visualizations/add-treemap-visualizations.md)
     + [Creación de visualizaciones apiladas al 100 %](analysis-workspace/visualizations/create-stacked-visualizations.md)
@@ -186,5 +189,5 @@ ht-degree: 81%
     + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
   + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-  + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+  + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
   + [Escenario de análisis de recorrido de desviación de llamadas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
