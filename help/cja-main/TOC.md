@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e3784070b30bf065b2bb5f960f2c426305e870f9
+source-git-commit: b4920cf1447f5152f24741315880e9c54b7abeb5
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 81%
+source-wordcount: '772'
+ht-degree: 79%
 
 ---
 
@@ -151,6 +151,7 @@ ht-degree: 81%
     + [Usar segmentos como dimensiones](components/filters/use-filters-as-dimensions.md)
     + [Crear públicos a partir de segmentos](components/filters/create-audiences-from-segments.md)
     + [Paso de segmentos de Adobe Analytics a Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+    + [Segmentación de nivel de objeto mediante subeventos](components/filters/object-level-segmentation-using-sub-events.md)
   + [Informes en tiempo real](components/real-time-reporting.md)
   + Dimensiones {#dimensions}
     + [Profundidad del evento](components/dimensions/event-depth-in-cja.md)
@@ -191,5 +192,6 @@ ht-degree: 81%
     + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
   + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-  + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+  + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
   + [Escenario de análisis de recorrido de desviación de llamadas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
++ [Data Mirror para Customer Journey Analytics](data-mirror/cja-data-mirror-sync-external-platforms.md)
