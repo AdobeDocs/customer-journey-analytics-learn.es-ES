@@ -8,7 +8,7 @@ doc-type: Feature Video
 duration: 264
 last-substantial-update: 2026-08-11T00:00:00Z
 jira: KT-22297
-source-git-commit: 6c808a2fa26d62eb7292b2895c62f65b0633081d
+source-git-commit: 48ec9badaf4fcf79721803d30098472cd345e147
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 7%
@@ -19,6 +19,6 @@ ht-degree: 7%
 
 Aprenda a usar [!UICONTROL Análisis de subeventos] en [!DNL Customer Journey Analytics] para lograr una segmentación y un sistema de informes más precisos. La segmentación de nivel de objeto elimina la atribución excesiva, mejora el análisis de ingresos y permite una exploración más profunda en conjuntos de datos complejos mediante el modelo de datos extensible de Adobe Experience Platform.
 
-Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-components/segments/sub-event){target="_blank"}.
+Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/sub-event){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497075?learn=on)
