@@ -22,4 +22,4 @@ Aprenda a usar [!UICONTROL Análisis de subeventos] en [!DNL Customer Journey An
 
 Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-components/segments/sub-event){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497075?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497078?captions=spa&learn=on)
