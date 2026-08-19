@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e098f3b353ef0f5f6f897eb175857f7a6606876e
+source-git-commit: 8b5dcd9bb7c428b3e43e64996383fbdd535328e5
 workflow-type: tm+mt
-source-wordcount: '783'
-ht-degree: 78%
+source-wordcount: '791'
+ht-degree: 77%
 
 ---
 
@@ -94,6 +94,7 @@ ht-degree: 78%
     + [Creación de plantillas personalizadas](analysis-workspace/templates/create-custom-templates.md)
   + Tablas de forma libre {#freeform-tables}
     + [Uso de clasificaciones en línea](analysis-workspace/freeform-tables/in-line-classifications-for-cja.md)
+    + [Explorar la configuración de filas y columnas en tablas de forma libre](analysis-workspace/freeform-tables/cja-explore-row-and-column-settings-in-freeform-tables.md)
   + Visualizaciones {#visualizations}
     + [Introducción de datos en visualizaciones](analysis-workspace/visualizations/getting-data-into-visualizations.md)
     + [Uso de desplegables de componentes en Workspace](analysis-workspace/visualizations/component-dropdowns-in-analysis-workspace.md)
@@ -195,5 +196,5 @@ ht-degree: 78%
     + [Usar matrices de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Modelos {#blueprints}
   + [Modelo de Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-  + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+  + [Escenario de consolidación de datos de comportamiento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
   + [Escenario de análisis de recorrido de desviación de llamadas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
