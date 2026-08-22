@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Utilice comparaciones de intervalos de fechas en el proyecto para analizar el rendimiento
 
->[!VIDEO](https://video.tv.adobe.com/v/3497504/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497518/?captions=spa&learn=on&enablevpops)
