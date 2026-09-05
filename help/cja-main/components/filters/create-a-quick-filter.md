@@ -7,7 +7,7 @@ level: Beginner
 doc-type: feature video
 thumbnail: 343743.jpg
 kt: 10452
-last-substantial-update: 2022-06-10T00:00:00.000Z
+last-substantial-update: 2026-09-04
 exl-id: 0982261b-92da-48b0-a0b4-9bd24a083631
 TQID: https://experienceleague.adobe.com/Tw55r-TS2A2pYAeyIi5-V2j9rO31jrJj-M-8AdDznwo
 product_v2:
@@ -23,19 +23,15 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+source-git-commit: 52f237d741c93529404cbdbc474a345bd3552581
 workflow-type: tm+mt
-source-wordcount: 116
-ht-degree: 12%
+source-wordcount: 107
+ht-degree: 14%
 
 ---
 
 # Creación de un segmento rápido
 
-Cree [!UICONTROL segmentos rápidos] directamente en sus [!DNL Customer Journey Analytics] proyectos y evite la complejidad del [!UICONTROL Generador de segmentos] completo. Esta función le ofrece una forma cómoda de segmentar los datos de componentes en función de criterios sencillos y ver los resultados inmediatamente. Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-components/cja-segments/quick-filters){target="_blank"}.
-
->[!NOTE]
->
-> Se cambió el nombre de &quot;[!UICONTROL Filters]&quot; a &quot;[!UICONTROL segments]&quot; en la interfaz de Customer Journey Analytics.
+Cree [!UICONTROL segmentos rápidos] directamente en sus proyectos de Customer Journey Analytics y evite la complejidad del [!UICONTROL generador de segmentos] completo. Esta función le ofrece una forma cómoda de segmentar los datos de componentes en función de criterios sencillos y ver los resultados inmediatamente. Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-components/segments/seg-quick){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411835/?captions=spa&quality=12&learn=on)
